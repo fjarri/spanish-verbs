@@ -1,0 +1,648 @@
+{
+    "utilizar": {
+        "e_present": "utilize",
+        "e_present3p": "utilizes",
+        "e_past": "utilized",
+        "e_pparticiple": "utilized",
+        "e_gerund": "utilizing"
+    },
+
+    "situar": {
+        "e_present": "position",
+        "e_present3p": "positions",
+        "e_past": "positioned",
+        "e_pparticiple": "positioned",
+        "e_gerund": "positioning"
+    },
+
+    "sentirse": "<delete>",
+
+    "secarse": "<delete>",
+
+    "llevar": {
+        "e_present": "wear",
+        "e_present3p": "wears",
+        "e_past": "wore",
+        "e_pparticiple": "worn",
+        "e_gerund": "wearing"
+    },
+
+    "reportar": {
+        "e_present": "generate",
+        "e_present3p": "generates",
+        "e_past": "generated",
+        "e_pparticiple": "generated",
+        "e_gerund": "generating"
+    },
+
+    "quebrarse": "<delete>",
+
+    "quebrar": {
+        "english_disambiguation": "intangible"
+    },
+
+    "quedarse": "<delete>",
+
+    "permanecer": {
+        "e_present": "remain",
+        "e_present3p": "remains",
+        "e_past": "remained",
+        "e_pparticiple": "remained",
+        "e_gerund": "remaining"
+    },
+
+    "padecer": {
+        "e_present": "endure",
+        "e_present3p": "endures",
+        "e_past": "endured",
+        "e_pparticiple": "endured",
+        "e_gerund": "enduring"
+    },
+
+    "oponer": {
+        "e_present": "put up",
+        "e_present3p": "puts up",
+        "e_past": "put up",
+        "e_pparticiple": "put up",
+        "e_gerund": "putting up"
+    },
+
+    "oponerse": {
+        "e_present": "oppose",
+        "e_present3p": "opposes",
+        "e_past": "opposed",
+        "e_pparticiple": "opposed",
+        "e_gerund": "opposing"
+    },
+
+    "olvidarse": "<delete>",
+
+    "negarse": "<delete>",
+
+    "mudar": "<delete>",
+
+    "moverse": "<delete>",
+
+    "mudarse": {
+        "e_present": "relocate",
+        "e_present3p": "relocates",
+        "e_past": "relocated",
+        "e_pparticiple": "relocated",
+        "e_gerund": "relocating"
+    },
+
+    "meter": {
+        "e_present": "insert",
+        "e_present3p": "inserts",
+        "e_past": "inserted",
+        "e_pparticiple": "inserted",
+        "e_gerund": "inserting"
+    },
+
+    "yacer": {
+        "e_pparticiple": "lain",
+        "english_disambiguation": "to lie down"
+    },
+
+    "matricularse": "<delete>",
+
+    "matricular": {
+        "e_present": "enrol",
+        "e_present3p": "enrols",
+        "e_past": "enrolled",
+        "e_pparticiple": "enrolled",
+        "e_gerund": "enrolling"
+    },
+
+    "registrarse": "<delete>",
+
+    "luchar": {
+        "e_present": "struggle",
+        "e_present3p": "struggles",
+        "e_past": "struggled",
+        "e_pparticiple": "struggled",
+        "e_gerund": "struggling"
+    },
+
+    "juntarse": "<delete>",
+
+    "tañer": {
+        "e_present": "strum",
+        "e_present3p": "strums",
+        "e_past": "strummed",
+        "e_pparticiple": "strummed",
+        "e_gerund": "strumming"
+    },
+
+    "introducir": {
+        "e_present": "put in",
+        "e_present3p": "puts in",
+        "e_past": "put in",
+        "e_pparticiple": "put in",
+        "e_gerund": "putting in"
+    },
+
+    "graduar": {
+        "e_present": "adjust",
+        "e_present3p": "adjusts",
+        "e_past": "adjusted",
+        "e_pparticiple": "adjusted",
+        "e_gerund": "adjusting"
+    },
+
+    "estar": {
+        "english_disambiguation": "temporary"
+    },
+
+    "ser": {
+        "english_disambiguation": "permanent"
+    },
+
+    "esconderse": "<delete>",
+
+    "esconder": {
+        "e_pparticiple": "hidden"
+    },
+
+    "detenerse": "<delete>",
+
+    "enfadar": {
+        "e_present": "upset",
+        "e_present3p": "upsets",
+        "e_past": "upset",
+        "e_pparticiple": "upset",
+        "e_gerund": "upsetting"
+    },
+
+    "enfadarse" : "<delete>",
+
+    "enojarse": "<delete>",
+
+    "hallar": {
+        "english_disambiguation": "hard find, discovery"
+    },
+
+    "hallarse": "<delete>",
+
+    "encender": {
+        "e_present": "light up",
+        "e_present3p": "lights up",
+        "e_past": "lit up",
+        "e_pparticiple": "lit up",
+        "e_gerund": "lighting up"
+    },
+
+    "divorciarse": "<delete>",
+
+    "devolver": {
+        "english_disambiguation": "return something"
+    },
+
+    "volver": {
+        "english_disambiguation": "return, turn, do something again"
+    },
+
+    "detener": {
+        "e_present": "halt",
+        "e_present3p": "halts",
+        "e_past": "halted",
+        "e_pparticiple": "halted",
+        "e_gerund": "halting"
+    },
+
+    "desarrollarse": "<delete>",
+
+    "doler": {
+        "english_disambiguation": "cause pain"
+    },
+
+    "lastimar": {
+        "english_disambiguation": "cause damage"
+    },
+
+    "disgustar": {
+        "e_present": "dislike",
+        "e_present3p": "dislikes",
+        "e_past": "disliked",
+        "e_pparticiple": "disliked",
+        "e_gerund": "disliking"
+    },
+
+    "dejar": {
+        "e_present": "let",
+        "e_present3p": "lets",
+        "e_past": "let",
+        "e_pparticiple": "let",
+        "e_gerund": "letting"
+    },
+
+    "regalar": {
+        "english_disambiguation": "present, give a gift"
+    },
+
+    "tapar": {
+        "english_disambiguation": "cover with a lid, block"
+    },
+
+    "levantar": {
+        "e_present": "lift",
+        "e_present3p": "lifts",
+        "e_past": "lifted",
+        "e_pparticiple": "lifted",
+        "e_gerund": "lifting"
+    },
+
+    "convidar": {
+        "english_disambiguation": "offer to share"
+    },
+
+    "proseguir": {
+        "e_present": "proceed",
+        "e_present3p": "proceeds",
+        "e_past": "proceeded",
+        "e_pparticiple": "proceeded",
+        "e_gerund": "proceeding"
+    },
+
+    "conservar": {
+        "e_present": "conserve",
+        "e_present3p": "conserves",
+        "e_past": "conserved",
+        "e_pparticiple": "conserved",
+        "e_gerund": "conserving"
+    },
+
+    "realizar": {
+        "e_present": "carry out",
+        "e_present3p": "carries out",
+        "e_past": "carried out",
+        "e_pparticiple": "carried out",
+        "e_gerund": "carrying out"
+    },
+
+    "lograr": {
+        "e_present": "achieve",
+        "e_present3p": "achieves",
+        "e_past": "achieved",
+        "e_pparticiple": "achieved",
+        "e_gerund": "achieving"
+    },
+
+    "conocer": {
+        "english_disambiguation": "know someone, be familiar"
+    },
+
+    "vencer": {
+        "e_present": "overcome",
+        "e_present3p": "overcomes",
+        "e_past": "overcame",
+        "e_pparticiple": "overcome",
+        "e_gerund": "overcoming",
+        "english_disambiguation": "to defeat"
+    },
+
+    "manejar": {
+        "e_present": "handle",
+        "e_present3p": "handles",
+        "e_past": "handled",
+        "e_pparticiple": "handled",
+        "e_gerund": "handling"
+    },
+
+    "comunicarse": "<delete>",
+
+    "comprender": {
+        "e_present": "comprehend",
+        "e_present3p": "comprehends",
+        "e_past": "comprehended",
+        "e_pparticiple": "comprehended",
+        "e_gerund": "comprehending"
+    },
+
+    "comenzar": {
+        "e_present": "commence",
+        "e_present3p": "commences",
+        "e_past": "commenced",
+        "e_pparticiple": "commenced",
+        "e_gerund": "commencing",
+        "english_template_type": "regular"
+    },
+
+    "casarse": "<delete>",
+
+    "cansarse": {
+        "e_pparticiple": "got tired"
+    },
+
+    "calmarse": {
+        "e_pparticiple": "calmed down"
+    },
+
+    "calentarse": {
+        "e_pparticiple": "got heated"
+    },
+
+    "burlar": {
+        "e_present": "evade",
+        "e_present3p": "evades",
+        "e_past": "evaded",
+        "e_pparticiple": "evaded",
+        "e_gerund": "evading"
+    },
+
+    "platicar": {
+        "e_present": "talk",
+        "e_present3p": "talks",
+        "e_past": "talked",
+        "e_pparticiple": "talked",
+        "e_gerund": "talking",
+        "english_disambiguation": "Latin American"
+    },
+
+    "conversar": {
+        "e_present": "converse",
+        "e_present3p": "converses",
+        "e_past": "conversed",
+        "e_pparticiple": "conversed",
+        "e_gerund": "conversing"
+    },
+
+    "emborracharse": {
+        "e_pparticiple": "got drunk"
+    },
+
+    "averiguar": {
+        "english_disambiguation": "intentionally"
+    },
+
+    "atravesar": {
+        "e_present": "cross over",
+        "e_present3p": "crosses over",
+        "e_past": "crossed over",
+        "e_pparticiple": "crossed over",
+        "e_gerund": "crossing over"
+    },
+
+    "tirar": {
+        "english_disambiguation": "throw away"
+    },
+
+    "lanzar": {
+        "english_disambiguation": "propel"
+    },
+
+    "echar": {
+        "english_disambiguation": "let go"
+    },
+
+    "arrojar": {
+        "english_disambiguation": "to emit, to spew out"
+    },
+
+    "aprobar": {
+        "e_present": "approve",
+        "e_present3p": "approves",
+        "e_past": "approved",
+        "e_pparticiple": "approved",
+        "e_gerund": "approving"
+    },
+
+    "soportar": {
+        "e_present": "stand",
+        "e_present3p": "stands",
+        "e_past": "stood",
+        "e_pparticiple": "stood",
+        "e_gerund": "standing",
+        "english_disambiguation": "to tolerate, to bear"
+    },
+
+    "apagar": {
+        "e_present": "turn off",
+        "e_present3p": "turns off",
+        "e_past": "turned off",
+        "e_pparticiple": "turned off",
+        "e_gerund": "turning off"
+    },
+
+    "andar": {
+        "e_present": "operate",
+        "e_present3p": "operates",
+        "e_past": "operated",
+        "e_pparticiple": "operated",
+        "e_gerund": "operating"
+    },
+
+    "ahorrar": {
+        "english_disambiguation": "to conserve, to save money"
+    },
+
+    "ahorcar": {
+        "english_disambiguation": "to dangle"
+    },
+
+    "gustar": {
+        "e_present": "like",
+        "e_present3p": "likes",
+        "e_past": "liked",
+        "e_pparticiple": "liked",
+        "e_gerund": "liking"
+    },
+
+    "agorar": {
+        "e_present": "prophesy",
+        "e_present3p": "prophesies",
+        "e_past": "prophesied",
+        "e_pparticiple": "prophesied",
+        "e_gerund": "prophesying"
+    },
+
+    "afeitarse": "<delete>",
+
+    "soler": {
+        "e_present": "be used to",
+        "e_present3p": "is used to",
+        "e_past": "was used to",
+        "e_pparticiple": "used to",
+        "e_gerund": "being used to"
+    },
+
+    "acostumbrarse": {
+        "e_present": "get accustomed to",
+        "e_present3p": "gets accustomed to",
+        "e_past": "got accustomed to",
+        "e_pparticiple": "got accustomed to",
+        "e_gerund": "getting accustomed to"
+    },
+
+    "recordar": {
+        "e_present": "recall",
+        "e_present3p": "recalls",
+        "e_past": "recalled",
+        "e_pparticiple": "recalled",
+        "e_gerund": "recalling"
+    },
+
+    "acontecer": {
+        "e_present": "take place",
+        "e_present3p": "takes place",
+        "e_past": "took place",
+        "e_pparticiple": "taken place",
+        "e_gerund": "taking place"
+    },
+
+    "acordar": {
+        "e_present": "agree",
+        "e_present3p": "agrees",
+        "e_past": "agreed",
+        "e_pparticiple": "agreed",
+        "e_gerund": "agreeing"
+    },
+
+    "decidirse": "<delete>",
+
+    "convenir": {
+        "e_present": "be advisable",
+        "e_present3p": "is advisable",
+        "e_past": "was advisable",
+        "e_pparticiple": "advisable",
+        "e_gerund": "being advisable",
+        "english_template_type": "to_be_smth"
+    },
+
+    "acabar": {
+        "e_present": "end",
+        "e_present3p": "ends",
+        "e_past": "ended",
+        "e_pparticiple": "ended",
+        "e_gerund": "ending"
+    },
+
+    "aburrirse": {
+        "e_pparticiple": "got bored"
+    },
+
+    "asustarse": "<delete>",
+
+    "anhelar": {
+        "e_gerund": "being eager for"
+    },
+
+    "apretar": {
+        "e_present": "be too tight",
+        "e_present3p": "is too tight",
+        "e_past": "was too tight",
+        "e_pparticiple": "too tight"
+    },
+
+    "batir": {
+        "e_present": "beat",
+        "e_present3p": "beats",
+        "e_past": "beat",
+        "e_pparticiple": "beaten",
+        "e_gerund": "beating",
+        "english_template_type": "regular"
+    },
+
+    "creer": {
+        "e_present": "believe",
+        "e_present3p": "believes",
+        "e_past": "believed",
+        "english_template_type": "regular"
+    },
+
+    "empezar": {
+        "e_present": "begin",
+        "e_present3p": "begins",
+        "e_past": "began",
+        "english_template_type": "regular"
+    },
+
+    "nacer": {
+        "e_present": "be born",
+        "e_present3p": "is born",
+        "e_past": "was born",
+        "e_pparticiple": "born"
+    },
+
+    "pertenecer": {
+        "e_present": "belonged",
+        "e_present3p": "belongs",
+        "e_past": "belonged",
+        "english_template_type": "regular"
+    },
+
+    "renacer": {
+        "e_present": "be reborn",
+        "e_present3p": "is reborn",
+        "e_past": "was reborn",
+        "e_pparticiple": "reborn"
+    },
+
+    "abusar": {
+        "e_present": "abuse",
+        "e_present3p": "abuses",
+        "e_past": "abused",
+        "e_pparticiple": "abused",
+        "e_gerund": "abusing"
+    },
+
+    "bañarse": {
+        "e_pparticiple": "taken a bath"
+    },
+
+    "divertirse": "<delete>",
+
+    "dormirse": "<delete>",
+
+    "ducharse": {
+        "e_pparticiple": "taken a shower"
+    },
+
+    "enfermarse": {
+        "e_pparticiple": "got sick"
+    },
+
+    "enflaquecerse": {
+        "e_pparticiple": "got thin"
+    },
+
+    "enriquecerse": {
+        "e_pparticiple": "got rich"
+    },
+
+    "envejecerse": {
+        "e_pparticiple": "got old"
+    },
+
+    "sentarse": {
+        "e_pparticiple": "sat down"
+    },
+
+    "vestirse": {
+        "e_pparticiple": "got dressed"
+    },
+
+    "chocar": {
+        "e_present": "crash",
+        "e_present3p": "crashes",
+        "e_past": "crashed",
+        "e_pparticiple": "crashed",
+        "e_gerund": "crashing"
+    },
+
+    "colocar": {
+        "e_present": "place",
+        "e_present3p": "places",
+        "e_past": "placed",
+        "e_pparticiple": "placed",
+        "e_gerund": "placing"
+    },
+
+    "ubicar": {
+        "e_present": "locate",
+        "e_present3p": "locates",
+        "e_past": "located",
+        "e_pparticiple": "located",
+        "e_gerund": "locating"
+    }
+}

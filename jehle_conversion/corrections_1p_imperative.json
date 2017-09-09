@@ -1,0 +1,1327 @@
+{
+    "abrazar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "abracemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no abracemos"
+        }
+    },
+    "acercar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "acerquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no acerquemos"
+        }
+    },
+    "acercarse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "acerquémonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos acerquemos"
+        }
+    },
+    "acontecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "acontezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no acontezcamos"
+        }
+    },
+    "advertir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "advirtamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no advirtamos"
+        }
+    },
+    "afligir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "aflijamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no aflijamos"
+        }
+    },
+    "agradecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "agradezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no agradezcamos"
+        }
+    },
+    "ahorcar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "ahorquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no ahorquemos"
+        }
+    },
+    "alcanzar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "alcancemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no alcancemos"
+        }
+    },
+    "almorzar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "almorcemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no almorcemos"
+        }
+    },
+    "amanecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "amanezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no amanezcamos"
+        }
+    },
+    "amenazar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "amenacemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no amenacemos"
+        }
+    },
+    "apagar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "apaguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no apaguemos"
+        }
+    },
+    "aparecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "aparezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no aparezcamos"
+        }
+    },
+    "aplicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "apliquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no apliquemos"
+        }
+    },
+    "atacar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "ataquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no ataquemos"
+        }
+    },
+    "atraer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "atraigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no atraigamos"
+        }
+    },
+    "avanzar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "avancemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no avancemos"
+        }
+    },
+    "averiguar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "averigüemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no averigüemos"
+        }
+    },
+    "castigar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "castiguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no castiguemos"
+        }
+    },
+    "bautizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "bauticemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no bauticemos"
+        }
+    },
+    "bendecir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "bendigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no bendigamos"
+        }
+    },
+    "broncearse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "broncéemonos"
+        }
+    },
+    "buscar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "busquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no busquemos"
+        }
+    },
+    "caber": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "quepamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no quepamos"
+        }
+    },
+    "caer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "caigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no caigamos"
+        }
+    },
+    "caracterizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "caractericemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no caractericemos"
+        }
+    },
+    "cargar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "carguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no carguemos"
+        }
+    },
+    "cazar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "cacemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no cacemos"
+        }
+    },
+    "chocar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "choquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no choquemos"
+        }
+    },
+    "civilizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "civilicemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no civilicemos"
+        }
+    },
+    "clarificar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "clarifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no clarifiquemos"
+        }
+    },
+    "clasificar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "clasifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no clasifiquemos"
+        }
+    },
+    "coger": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "cojamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no cojamos"
+        }
+    },
+    "colgar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "colguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no colguemos"
+        }
+    },
+    "colocar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "coloquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no coloquemos"
+        }
+    },
+    "colonizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "colonicemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no colonicemos"
+        }
+    },
+    "comenzar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "comencemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no comencemos"
+        }
+    },
+    "competir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "compitamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no compitamos"
+        }
+    },
+    "componer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "compongamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no compongamos"
+        }
+    },
+    "comunicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "comuniquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no comuniquemos"
+        }
+    },
+    "comunicarse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "comuniquémonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos comuniquemos"
+        }
+    },
+    "conducir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "conduzcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no conduzcamos"
+        }
+    },
+    "confiscar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "confisquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no confisquemos"
+        }
+    },
+    "conjugar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "conjuguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no conjuguemos"
+        }
+    },
+    "conocer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "conozcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no conozcamos"
+        }
+    },
+    "conseguir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "consigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no consigamos"
+        }
+    },
+    "consentir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "consintamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no consintamos"
+        }
+    },
+    "constituir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "constituyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no constituyamos"
+        }
+    },
+    "construir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "construyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no construyamos"
+        }
+    },
+    "contener": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "contengamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no contengamos"
+        }
+    },
+    "contribuir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "contribuyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no contribuyamos"
+        }
+    },
+    "convencer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "convenzamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no convenzamos"
+        }
+    },
+    "convenir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "convengamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no convengamos"
+        }
+    },
+    "convertir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "convirtamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no convirtamos"
+        }
+    },
+    "corregir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "corrijamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no corrijamos"
+        }
+    },
+    "crecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "crezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no crezcamos"
+        }
+    },
+    "criticar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "critiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no critiquemos"
+        }
+    },
+    "crucificar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "crucifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no crucifiquemos"
+        }
+    },
+    "cruzar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "crucemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no crucemos"
+        }
+    },
+    "decir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "digamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no digamos"
+        }
+    },
+    "dedicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "dediquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no dediquemos"
+        }
+    },
+    "dedicarse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "dediquémonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos dediquemos"
+        }
+    },
+    "derretir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "derritamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no derritamos"
+        }
+    },
+    "desaparecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "desaparezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no desaparezcamos"
+        }
+    },
+    "deshacer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "deshagamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no deshagamos"
+        }
+    },
+    "despedir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "despidamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no despidamos"
+        }
+    },
+    "destruir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "destruyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no destruyamos"
+        }
+    },
+    "detener": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "detengamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no detengamos"
+        }
+    },
+    "detenerse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "detengámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos detengamos"
+        }
+    },
+    "dirigir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "dirijamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no dirijamos"
+        }
+    },
+    "disminuir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "disminuyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no disminuyamos"
+        }
+    },
+    "distinguir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "distingamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no distingamos"
+        }
+    },
+    "distribuir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "distribuyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no distribuyamos"
+        }
+    },
+    "divertir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "divirtamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no divirtamos"
+        }
+    },
+    "divertirse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "divirtámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos divirtamos"
+        }
+    },
+    "dormir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "durmamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no durmamos"
+        }
+    },
+    "dormirse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "durmámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos durmamos"
+        }
+    },
+    "empezar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "empecemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no empecemos"
+        }
+    },
+    "educar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "eduquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no eduquemos"
+        }
+    },
+    "ejercer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "ejerzamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no ejerzamos"
+        }
+    },
+    "elegir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "elijamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no elijamos"
+        }
+    },
+    "entregar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "entreguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no entreguemos"
+        }
+    },
+    "enflaquecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "enflaquezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no enflaquezcamos"
+        }
+    },
+    "enflaquecerse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "enflaquezcámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos enflaquezcamos"
+        }
+    },
+    "enriquecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "enriquezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no enriquezcamos"
+        }
+    },
+    "enriquecerse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "enriquezcámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos enriquezcamos"
+        }
+    },
+    "entretener": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "entretengamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no entretengamos"
+        }
+    },
+    "envejecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "envejezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no envejezcamos"
+        }
+    },
+    "envejecerse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "envejezcámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos envejezcamos"
+        }
+    },
+    "equivocar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "equivoquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no equivoquemos"
+        }
+    },
+    "equivocarse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "equivoquémonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos equivoquemos"
+        }
+    },
+    "escoger": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "escojamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no escojamos"
+        }
+    },
+    "establecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "establezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no establezcamos"
+        }
+    },
+    "exigir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "exijamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no exijamos"
+        }
+    },
+    "explicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "expliquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no expliquemos"
+        }
+    },
+    "exponer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "expongamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no expongamos"
+        }
+    },
+    "extinguir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "extingamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no extingamos"
+        }
+    },
+    "fabricar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "fabriquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no fabriquemos"
+        }
+    },
+    "fingir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "finjamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no finjamos"
+        }
+    },
+    "florecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "florezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no florezcamos"
+        }
+    },
+    "fortalecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "fortalezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no fortalezcamos"
+        }
+    },
+    "freír": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "friamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no friamos"
+        }
+    },
+    "generalizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "generalicemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no generalicemos"
+        }
+    },
+    "glorificar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "glorifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no glorifiquemos"
+        }
+    },
+    "hacer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "hagamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no hagamos"
+        }
+    },
+    "herir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "hiramos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no hiramos"
+        }
+    },
+    "hervir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "hirvamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no hirvamos"
+        }
+    },
+    "huir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "huyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no huyamos"
+        }
+    },
+    "incluir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "incluyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no incluyamos"
+        }
+    },
+    "indicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "indiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no indiquemos"
+        }
+    },
+    "inducir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "induzcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no induzcamos"
+        }
+    },
+    "influir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "influyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no influyamos"
+        }
+    },
+    "introducir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "introduzcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no introduzcamos"
+        }
+    },
+    "invertir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "invirtamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no invirtamos"
+        }
+    },
+    "investigar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "investiguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no investiguemos"
+        }
+    },
+    "invocar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "invoquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no invoquemos"
+        }
+    },
+    "ir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "vayamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no vayamos"
+        }
+    },
+    "irse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "vayámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos vayamos"
+        }
+    },
+    "jugar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "juguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no juguemos"
+        }
+    },
+    "lanzar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "lancemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no lancemos"
+        }
+    },
+    "legalizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "legalicemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no legalicemos"
+        }
+    },
+    "llegar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "lleguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no lleguemos"
+        }
+    },
+    "mantener": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "mantengamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no mantengamos"
+        }
+    },
+    "marcar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "marquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no marquemos"
+        }
+    },
+    "masticar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "mastiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no mastiquemos"
+        }
+    },
+    "medir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "midamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no midamos"
+        }
+    },
+    "mentir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "mintamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no mintamos"
+        }
+    },
+    "merecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "merezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no merezcamos"
+        }
+    },
+    "modificar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "modifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no modifiquemos"
+        }
+    },
+    "morir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "muramos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no muramos"
+        }
+    },
+    "nacer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "nazcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nazcamos"
+        }
+    },
+    "navegar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "naveguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no naveguemos"
+        }
+    },
+    "negar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "neguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no neguemos"
+        }
+    },
+    "negarse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "neguémonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos neguemos"
+        }
+    },
+    "obedecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "obedezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no obedezcamos"
+        }
+    },
+    "obligar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "obliguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no obliguemos"
+        }
+    },
+    "obtener": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "obtengamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no obtengamos"
+        }
+    },
+    "ofrecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "ofrezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no ofrezcamos"
+        }
+    },
+    "oír": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "oigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no oigamos"
+        }
+    },
+    "oponer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "opongamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no opongamos"
+        }
+    },
+    "oponerse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "opongámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos opongamos"
+        }
+    },
+    "organizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "organicemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no organicemos"
+        }
+    },
+    "padecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "padezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no padezcamos"
+        }
+    },
+    "pagar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "paguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no paguemos"
+        }
+    },
+    "recoger": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "recojamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no recojamos"
+        }
+    },
+    "parecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "parezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no parezcamos"
+        }
+    },
+    "pedir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "pidamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no pidamos"
+        }
+    },
+    "pegar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "peguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no peguemos"
+        }
+    },
+    "permanecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "permanezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no permanezcamos"
+        }
+    },
+    "perseguir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "persigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no persigamos"
+        }
+    },
+    "pertenecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "pertenezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no pertenezcamos"
+        }
+    },
+    "pescar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "pesquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no pesquemos"
+        }
+    },
+    "picar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "piquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no piquemos"
+        }
+    },
+    "platicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "platiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no platiquemos"
+        }
+    },
+    "poner": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "pongamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no pongamos"
+        }
+    },
+    "ponerse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "pongámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos pongamos"
+        }
+    },
+    "practicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "practiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no practiquemos"
+        }
+    },
+    "predecir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "predigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no predigamos"
+        }
+    },
+    "preferir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "prefiramos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no prefiramos"
+        }
+    },
+    "prever": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "preveamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no preveamos"
+        }
+    },
+    "presentir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "presintamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no presintamos"
+        }
+    },
+    "producir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "produzcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no produzcamos"
+        }
+    },
+    "proponer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "propongamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no propongamos"
+        }
+    },
+    "proseguir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "prosigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no prosigamos"
+        }
+    },
+    "proteger": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "protejamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no protejamos"
+        }
+    },
+    "provocar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "provoquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no provoquemos"
+        }
+    },
+    "publicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "publiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no publiquemos"
+        }
+    },
+    "purificar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "purifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no purifiquemos"
+        }
+    },
+    "realizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "realicemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no realicemos"
+        }
+    },
+    "rechazar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "rechacemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no rechacemos"
+        }
+    },
+    "reconocer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "reconozcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no reconozcamos"
+        }
+    },
+    "reducir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "reduzcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no reduzcamos"
+        }
+    },
+    "regar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "reguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no reguemos"
+        }
+    },
+    "regir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "rijamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no rijamos"
+        }
+    },
+    "reír": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "riamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no riamos"
+        }
+    },
+    "renacer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "renazcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no renazcamos"
+        }
+    },
+    "reñir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "riñamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no riñamos"
+        }
+    },
+    "repetir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "repitamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no repitamos"
+        }
+    },
+    "replicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "repliquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no repliquemos"
+        }
+    },
+    "requerir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "requiramos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no requiramos"
+        }
+    },
+    "rezar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "recemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no recemos"
+        }
+    },
+    "rogar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "roguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no roguemos"
+        }
+    },
+    "saber": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sepamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sepamos"
+        }
+    },
+    "sacar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "saquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no saquemos"
+        }
+    },
+    "sacrificar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sacrifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sacrifiquemos"
+        }
+    },
+    "salir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "salgamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no salgamos"
+        }
+    },
+    "sugerir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sugiramos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sugiramos"
+        }
+    },
+    "satisfacer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "satisfagamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no satisfagamos"
+        }
+    },
+    "satirizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "satiricemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no satiricemos"
+        }
+    },
+    "secar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sequemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sequemos"
+        }
+    },
+    "secarse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sequémonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos sequemos"
+        }
+    },
+    "seguir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sigamos"
+        }
+    },
+    "sentir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sintamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sintamos"
+        }
+    },
+    "sentirse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sintámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos sintamos"
+        }
+    },
+    "ser": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "seamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no seamos"
+        }
+    },
+    "servir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sirvamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sirvamos"
+        }
+    },
+    "significar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "signifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no signifiquemos"
+        }
+    },
+    "simbolizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "simbolicemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no simbolicemos"
+        }
+    },
+    "sonreír": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sonriamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sonriamos"
+        }
+    },
+    "suponer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "supongamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no supongamos"
+        }
+    },
+    "surgir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "surjamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no surjamos"
+        }
+    },
+    "sustituir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "sustituyamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no sustituyamos"
+        }
+    },
+    "tener": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "tengamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no tengamos"
+        }
+    },
+    "teñir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "tiñamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no tiñamos"
+        }
+    },
+    "tocar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "toquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no toquemos"
+        }
+    },
+    "torcer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "torzamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no torzamos"
+        }
+    },
+    "traducir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "traduzcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no traduzcamos"
+        }
+    },
+    "traer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "traigamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no traigamos"
+        }
+    },
+    "tragar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "traguemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no traguemos"
+        }
+    },
+    "tropezar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "tropecemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no tropecemos"
+        }
+    },
+    "ubicar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "ubiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no ubiquemos"
+        }
+    },
+    "utilizar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "utilicemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no utilicemos"
+        }
+    },
+    "valer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "valgamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no valgamos"
+        }
+    },
+    "vencer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "venzamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no venzamos"
+        }
+    },
+    "venir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "vengamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no vengamos"
+        }
+    },
+    "ver": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "veamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no veamos"
+        }
+    },
+    "verificar": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "verifiquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no verifiquemos"
+        }
+    },
+    "vestir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "vistamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no vistamos"
+        }
+    },
+    "vestirse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "vistámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos vistamos"
+        }
+    },
+    "yacer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "yazcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no yazcamos"
+        }
+    }
+}

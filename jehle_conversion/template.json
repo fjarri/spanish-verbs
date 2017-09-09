@@ -1,0 +1,1698 @@
+{
+    "Presente Indicativo; 1a persona; singular": [
+        {
+            "regular": "I <e_present>, I am <e_gerund>",
+            "to_be_smth": "I am <e_pparticiple>",
+            "to_be": "I am"
+        },
+        {
+            "ar": "<s_stem>o",
+            "er": "<s_stem>o",
+            "ir": "<s_stem>o",
+            "arse": "me <s_stem>o",
+            "erse": "me <s_stem>o",
+            "irse": "me <s_stem>o"
+        }
+    ],
+    "Presente Indicativo; 2a persona; singular": [
+        {
+            "regular": "You <e_present>, you are <e_gerund>",
+            "to_be_smth": "You are <e_pparticiple>",
+            "to_be": "You are"
+        },
+        {
+            "ar": "<s_stem>as",
+            "er": "<s_stem>es",
+            "ir": "<s_stem>es",
+            "arse": "te <s_stem>as",
+            "erse": "te <s_stem>es",
+            "irse": "te <s_stem>es"
+        }
+    ],
+    "Presente Indicativo; 3a persona; singular": [
+        {
+            "regular": "He <e_present3p>, he is <e_gerund>",
+            "to_be_smth": "He is <e_pparticiple>",
+            "to_be": "He is"
+        },
+        {
+            "ar": "<s_stem>a",
+            "er": "<s_stem>e",
+            "ir": "<s_stem>e",
+            "arse": "se <s_stem>a",
+            "erse": "se <s_stem>e",
+            "irse": "se <s_stem>e"
+        }
+    ],
+    "Presente Indicativo; 1a persona; plural": [
+        {
+            "regular": "We <e_present>, we are <e_gerund>",
+            "to_be_smth": "We are <e_pparticiple>",
+            "to_be": "We are"
+        },
+        {
+            "ar": "<s_stem>amos",
+            "er": "<s_stem>emos",
+            "ir": "<s_stem>imos",
+            "arse": "nos <s_stem>amos",
+            "erse": "nos <s_stem>emos",
+            "irse": "nos <s_stem>imos"
+        }
+    ],
+    "Presente Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all <e_present>, you all are <e_gerund>",
+            "to_be_smth": "You all are <e_pparticiple>",
+            "to_be": "You all are"
+        },
+        {
+            "ar": "<s_stem>áis",
+            "er": "<s_stem>éis",
+            "ir": "<s_stem>ís",
+            "arse": "os <s_stem>áis",
+            "erse": "os <s_stem>éis",
+            "irse": "os <s_stem>ís"
+        }
+    ],
+    "Presente Indicativo; 3a persona; plural": [
+        {
+            "regular": "They <e_present>, they are <e_gerund>",
+            "to_be_smth": "They are <e_pparticiple>",
+            "to_be": "They are"
+        },
+        {
+            "ar": "<s_stem>an",
+            "er": "<s_stem>en",
+            "ir": "<s_stem>en",
+            "arse": "se <s_stem>an",
+            "erse": "se <s_stem>en",
+            "irse": "se <s_stem>en"
+        }
+    ],
+
+
+
+
+    "Futuro Indicativo; 1a persona; singular": [
+        {
+            "regular": "I will <e_present>",
+            "to_be_smth": "I will <e_present>",
+            "to_be": "I will be"
+        },
+        {
+            "ar": "<s_stem>aré",
+            "er": "<s_stem>eré",
+            "ir": "<s_stem>iré",
+            "arse": "me <s_stem>aré",
+            "erse": "me <s_stem>eré",
+            "irse": "me <s_stem>iré"
+        }
+    ],
+    "Futuro Indicativo; 2a persona; singular": [
+        {
+            "regular": "You will <e_present>",
+            "to_be_smth": "You will <e_present>",
+            "to_be": "You will be"
+        },
+        {
+            "ar": "<s_stem>arás",
+            "er": "<s_stem>erás",
+            "ir": "<s_stem>irás",
+            "arse": "te <s_stem>arás",
+            "erse": "te <s_stem>erás",
+            "irse": "te <s_stem>irás"
+        }
+    ],
+    "Futuro Indicativo; 3a persona; singular": [
+        {
+            "regular": "He will <e_present>",
+            "to_be_smth": "He will <e_present>",
+            "to_be": "He will be"
+        },
+        {
+            "ar": "<s_stem>ará",
+            "er": "<s_stem>erá",
+            "ir": "<s_stem>irá",
+            "arse": "se <s_stem>ará",
+            "erse": "se <s_stem>erá",
+            "irse": "se <s_stem>irá"
+        }
+    ],
+    "Futuro Indicativo; 1a persona; plural": [
+        {
+            "regular": "We will <e_present>",
+            "to_be_smth": "We will <e_present>",
+            "to_be": "We will be"
+        },
+        {
+            "ar": "<s_stem>aremos",
+            "er": "<s_stem>eremos",
+            "ir": "<s_stem>iremos",
+            "arse": "nos <s_stem>aremos",
+            "erse": "nos <s_stem>eremos",
+            "irse": "nos <s_stem>iremos"
+        }
+    ],
+    "Futuro Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all will <e_present>",
+            "to_be_smth": "You all will <e_present>",
+            "to_be": "You all will be"
+        },
+        {
+            "ar": "<s_stem>aréis",
+            "er": "<s_stem>eréis",
+            "ir": "<s_stem>iréis",
+            "arse": "os <s_stem>aréis",
+            "erse": "os <s_stem>eréis",
+            "irse": "os <s_stem>iréis"
+        }
+    ],
+    "Futuro Indicativo; 3a persona; plural": [
+        {
+            "regular": "They will <e_present>",
+            "to_be_smth": "They will <e_present>",
+            "to_be": "They will be"
+        },
+        {
+            "ar": "<s_stem>arán",
+            "er": "<s_stem>erán",
+            "ir": "<s_stem>irán",
+            "arse": "se <s_stem>arán",
+            "erse": "se <s_stem>erán",
+            "irse": "se <s_stem>irán"
+        }
+    ],
+
+
+
+
+    "Imperfecto Indicativo; 1a persona; singular": [
+        {
+            "regular": "I was <e_gerund>, I used to <e_present>, I <e_past>",
+            "to_be_smth": "I was <e_pparticiple>, I used to <e_present>",
+            "to_be": "I was, I used to be"
+        },
+        {
+            "ar": "<s_stem>aba",
+            "er": "<s_stem>ía",
+            "ir": "<s_stem>ía",
+            "arse": "me <s_stem>aba",
+            "erse": "me <s_stem>ía",
+            "irse": "me <s_stem>ía"
+        }
+    ],
+    "Imperfecto Indicativo; 2a persona; singular": [
+        {
+            "regular": "You were <e_gerund>, you used to <e_present>, you <e_past>",
+            "to_be_smth": "You were <e_pparticiple>, you used to <e_present>",
+            "to_be": "You were, you used to be"
+        },
+        {
+            "ar": "<s_stem>abas",
+            "er": "<s_stem>ías",
+            "ir": "<s_stem>ías",
+            "arse": "te <s_stem>abas",
+            "erse": "te <s_stem>ías",
+            "irse": "te <s_stem>ías"
+        }
+    ],
+    "Imperfecto Indicativo; 3a persona; singular": [
+        {
+            "regular": "He was <e_gerund>, he used to <e_present>, he <e_past>",
+            "to_be_smth": "He was <e_pparticiple>, he used to <e_present>",
+            "to_be": "He was, he used to be"
+        },
+        {
+            "ar": "<s_stem>aba",
+            "er": "<s_stem>ía",
+            "ir": "<s_stem>ía",
+            "arse": "se <s_stem>aba",
+            "erse": "se <s_stem>ía",
+            "irse": "se <s_stem>ía"
+        }
+    ],
+    "Imperfecto Indicativo; 1a persona; plural": [
+        {
+            "regular": "We were <e_gerund>, we used to <e_present>, we <e_past>",
+            "to_be_smth": "We were <e_pparticiple>, we used to <e_present>",
+            "to_be": "We were, we used to be"
+        },
+        {
+            "ar": "<s_stem>ábamos",
+            "er": "<s_stem>íamos",
+            "ir": "<s_stem>íamos",
+            "arse": "nos <s_stem>ábamos",
+            "erse": "nos <s_stem>íamos",
+            "irse": "nos <s_stem>íamos"
+        }
+    ],
+    "Imperfecto Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all were <e_gerund>, you all used to <e_present>, you all <e_past>",
+            "to_be_smth": "You all were <e_pparticiple>, you all used to <e_present>",
+            "to_be": "You all were, you all used to be"
+        },
+        {
+            "ar": "<s_stem>abais",
+            "er": "<s_stem>íais",
+            "ir": "<s_stem>íais",
+            "arse": "os <s_stem>abais",
+            "erse": "os <s_stem>íais",
+            "irse": "os <s_stem>íais"
+        }
+    ],
+    "Imperfecto Indicativo; 3a persona; plural": [
+        {
+            "regular": "They were <e_gerund>, they used to <e_present>, they <e_past>",
+            "to_be_smth": "They were <e_gerund>, they used to <e_present>",
+            "to_be": "They were, they used to be"
+        },
+        {
+            "ar": "<s_stem>aban",
+            "er": "<s_stem>ían",
+            "ir": "<s_stem>ían",
+            "arse": "se <s_stem>aban",
+            "erse": "se <s_stem>ían",
+            "irse": "se <s_stem>ían"
+        }
+    ],
+
+
+
+
+    "Pretérito Indicativo; 1a persona; singular": [
+        {
+            "regular": "I <e_past>",
+            "to_be_smth": "I was <e_pparticiple>",
+            "to_be": "I was"
+        },
+        {
+            "ar": "<s_stem>é",
+            "er": "<s_stem>í",
+            "ir": "<s_stem>í",
+            "arse": "me <s_stem>é",
+            "erse": "me <s_stem>í",
+            "irse": "me <s_stem>í"
+        }
+    ],
+    "Pretérito Indicativo; 2a persona; singular": [
+        {
+            "regular": "You <e_past>",
+            "to_be_smth": "You were <e_pparticiple>",
+            "to_be": "You were"
+        },
+        {
+            "ar": "<s_stem>aste",
+            "er": "<s_stem>iste",
+            "ir": "<s_stem>iste",
+            "arse": "te <s_stem>aste",
+            "erse": "te <s_stem>iste",
+            "irse": "te <s_stem>iste"
+        }
+    ],
+    "Pretérito Indicativo; 3a persona; singular": [
+        {
+            "regular": "He <e_past>",
+            "to_be_smth": "He was <e_pparticiple>",
+            "to_be": "He was"
+        },
+        {
+            "ar": "<s_stem>ó",
+            "er": "<s_stem>ió",
+            "ir": "<s_stem>ió",
+            "arse": "se <s_stem>ó",
+            "erse": "se <s_stem>ió",
+            "irse": "se <s_stem>ió"
+        }
+    ],
+    "Pretérito Indicativo; 1a persona; plural": [
+        {
+            "regular": "We <e_past>",
+            "to_be_smth": "We were <e_pparticiple>",
+            "to_be": "We were"
+        },
+        {
+            "ar": "<s_stem>amos",
+            "er": "<s_stem>imos",
+            "ir": "<s_stem>imos",
+            "arse": "nos <s_stem>amos",
+            "erse": "nos <s_stem>imos",
+            "irse": "nos <s_stem>imos"
+        }
+    ],
+    "Pretérito Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all <e_past>",
+            "to_be_smth": "You all were <e_pparticiple>",
+            "to_be": "You all were"
+        },
+        {
+            "ar": "<s_stem>asteis",
+            "er": "<s_stem>isteis",
+            "ir": "<s_stem>isteis",
+            "arse": "os <s_stem>asteis",
+            "erse": "os <s_stem>isteis",
+            "irse": "os <s_stem>isteis"
+        }
+    ],
+    "Pretérito Indicativo; 3a persona; plural": [
+        {
+            "regular": "They <e_past>",
+            "to_be_smth": "They were <e_pparticiple>",
+            "to_be": "They were"
+        },
+        {
+            "ar": "<s_stem>aron",
+            "er": "<s_stem>ieron",
+            "ir": "<s_stem>ieron",
+            "arse": "se <s_stem>aron",
+            "erse": "se <s_stem>ieron",
+            "irse": "se <s_stem>ieron"
+        }
+    ],
+
+
+
+
+    "Condicional Indicativo; 1a persona; singular": [
+        {
+            "regular": "I would <e_present>",
+            "to_be_smth": "I would <e_present>",
+            "to_be": "I would be"
+        },
+        {
+            "ar": "<s_stem>aría",
+            "er": "<s_stem>ería",
+            "ir": "<s_stem>iría",
+            "arse": "me <s_stem>aría",
+            "erse": "me <s_stem>ería",
+            "irse": "me <s_stem>iría"
+        }
+    ],
+    "Condicional Indicativo; 2a persona; singular": [
+        {
+            "regular": "You would <e_present>",
+            "to_be_smth": "You would <e_present>",
+            "to_be": "You would be"
+        },
+        {
+            "ar": "<s_stem>arías",
+            "er": "<s_stem>erías",
+            "ir": "<s_stem>irías",
+            "arse": "te <s_stem>arías",
+            "erse": "te <s_stem>erías",
+            "irse": "te <s_stem>irías"
+        }
+    ],
+    "Condicional Indicativo; 3a persona; singular": [
+        {
+            "regular": "He would <e_present>",
+            "to_be_smth": "He would <e_present>",
+            "to_be": "He would be"
+        },
+        {
+            "ar": "<s_stem>aría",
+            "er": "<s_stem>ería",
+            "ir": "<s_stem>iría",
+            "arse": "se <s_stem>aría",
+            "erse": "se <s_stem>ería",
+            "irse": "se <s_stem>iría"
+        }
+    ],
+    "Condicional Indicativo; 1a persona; plural": [
+        {
+            "regular": "We would <e_present>",
+            "to_be_smth": "We would <e_present>",
+            "to_be": "We would be"
+        },
+        {
+            "ar": "<s_stem>aríamos",
+            "er": "<s_stem>eríamos",
+            "ir": "<s_stem>iríamos",
+            "arse": "nos <s_stem>aríamos",
+            "erse": "nos <s_stem>eríamos",
+            "irse": "nos <s_stem>iríamos"
+        }
+    ],
+    "Condicional Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all would <e_present>",
+            "to_be_smth": "You all would <e_present>",
+            "to_be": "You all would be"
+        },
+        {
+            "ar": "<s_stem>aríais",
+            "er": "<s_stem>eríais",
+            "ir": "<s_stem>iríais",
+            "arse": "os <s_stem>aríais",
+            "erse": "os <s_stem>eríais",
+            "irse": "os <s_stem>iríais"
+        }
+    ],
+    "Condicional Indicativo; 3a persona; plural": [
+        {
+            "regular": "They would <e_present>",
+            "to_be_smth": "They would <e_present>",
+            "to_be": "They would be"
+        },
+        {
+            "ar": "<s_stem>arían",
+            "er": "<s_stem>erían",
+            "ir": "<s_stem>irían",
+            "arse": "se <s_stem>arían",
+            "erse": "se <s_stem>erían",
+            "irse": "se <s_stem>irían"
+        }
+    ],
+
+
+
+
+    "Presente perfecto Indicativo; 1a persona; singular": [
+        {
+            "regular": "I have <e_pparticiple>",
+            "to_be_smth": "I have been <e_pparticiple>",
+            "to_be": "I have been"
+        },
+        {
+            "ar": "he <s_pparticiple>",
+            "er": "he <s_pparticiple>",
+            "ir": "he <s_pparticiple>",
+            "arse": "me he <s_pparticiple>",
+            "erse": "me he <s_pparticiple>",
+            "irse": "me he <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Indicativo; 2a persona; singular": [
+        {
+            "regular": "You have <e_pparticiple>",
+            "to_be_smth": "You have been <e_pparticiple>",
+            "to_be": "You have been"
+        },
+        {
+            "ar": "has <s_pparticiple>",
+            "er": "has <s_pparticiple>",
+            "ir": "has <s_pparticiple>",
+            "arse": "te has <s_pparticiple>",
+            "erse": "te has <s_pparticiple>",
+            "irse": "te has <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Indicativo; 3a persona; singular": [
+        {
+            "regular": "He has <e_pparticiple>",
+            "to_be_smth": "He has been <e_pparticiple>",
+            "to_be": "He has been"
+        },
+        {
+            "ar": "ha <s_pparticiple>",
+            "er": "ha <s_pparticiple>",
+            "ir": "ha <s_pparticiple>",
+            "arse": "se ha <s_pparticiple>",
+            "erse": "se ha <s_pparticiple>",
+            "irse": "se ha <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Indicativo; 1a persona; plural": [
+        {
+            "regular": "We have <e_pparticiple>",
+            "to_be_smth": "We have been <e_pparticiple>",
+            "to_be": "We have been"
+        },
+        {
+            "ar": "hemos <s_pparticiple>",
+            "er": "hemos <s_pparticiple>",
+            "ir": "hemos <s_pparticiple>",
+            "arse": "nos hemos <s_pparticiple>",
+            "erse": "nos hemos <s_pparticiple>",
+            "irse": "nos hemos <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all have <e_pparticiple>",
+            "to_be_smth": "You all have been <e_pparticiple>",
+            "to_be": "You all have been"
+        },
+        {
+            "ar": "habéis <s_pparticiple>",
+            "er": "habéis <s_pparticiple>",
+            "ir": "habéis <s_pparticiple>",
+            "arse": "os habéis <s_pparticiple>",
+            "erse": "os habéis <s_pparticiple>",
+            "irse": "os habéis <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Indicativo; 3a persona; plural": [
+        {
+            "regular": "They have <e_pparticiple>",
+            "to_be_smth": "They have been <e_pparticiple>",
+            "to_be": "They have been"
+        },
+        {
+            "ar": "han <s_pparticiple>",
+            "er": "han <s_pparticiple>",
+            "ir": "han <s_pparticiple>",
+            "arse": "se han <s_pparticiple>",
+            "erse": "se han <s_pparticiple>",
+            "irse": "se han <s_pparticiple>"
+        }
+    ],
+
+
+
+
+    "Futuro perfecto Indicativo; 1a persona; singular": [
+        {
+            "regular": "I will have <e_pparticiple>, I could have <e_pparticiple>",
+            "to_be_smth": "I will have been <e_pparticiple>, I could have been <e_pparticiple>",
+            "to_be": "I will have been, I could have been"
+        },
+        {
+            "ar": "habré <s_pparticiple>",
+            "er": "habré <s_pparticiple>",
+            "ir": "habré <s_pparticiple>",
+            "arse": "me habré <s_pparticiple>",
+            "erse": "me habré <s_pparticiple>",
+            "irse": "me habré <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Indicativo; 2a persona; singular": [
+        {
+            "regular": "You will have <e_pparticiple>, you could have <e_pparticiple>",
+            "to_be_smth": "You will have been <e_pparticiple>, you could have been <e_pparticiple>",
+            "to_be": "You will have been, you could have been"
+        },
+        {
+            "ar": "habrás <s_pparticiple>",
+            "er": "habrás <s_pparticiple>",
+            "ir": "habrás <s_pparticiple>",
+            "arse": "te habrás <s_pparticiple>",
+            "erse": "te habrás <s_pparticiple>",
+            "irse": "te habrás <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Indicativo; 3a persona; singular": [
+        {
+            "regular": "He will have <e_pparticiple>, he could have <e_pparticiple>",
+            "to_be_smth": "He will have been <e_pparticiple>, he could have been <e_pparticiple>",
+            "to_be": "He will have been, he could have been"
+        },
+        {
+            "ar": "habrá <s_pparticiple>",
+            "er": "habrá <s_pparticiple>",
+            "ir": "habrá <s_pparticiple>",
+            "arse": "se habrá <s_pparticiple>",
+            "erse": "se habrá <s_pparticiple>",
+            "irse": "se habrá <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Indicativo; 1a persona; plural": [
+        {
+            "regular": "We will have <e_pparticiple>, we could have <e_pparticiple>",
+            "to_be_smth": "We will have been <e_pparticiple>, we could have been <e_pparticiple>",
+            "to_be": "We will have been, we could have been"
+        },
+        {
+            "ar": "habremos <s_pparticiple>",
+            "er": "habremos <s_pparticiple>",
+            "ir": "habremos <s_pparticiple>",
+            "arse": "nos habremos <s_pparticiple>",
+            "erse": "nos habremos <s_pparticiple>",
+            "irse": "nos habremos <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all will have <e_pparticiple>, you all could have <e_pparticiple>",
+            "to_be_smth": "You all will have been <e_pparticiple>, you all could have been <e_pparticiple>",
+            "to_be": "You all will have been, you all could have been"
+        },
+        {
+            "ar": "habréis <s_pparticiple>",
+            "er": "habréis <s_pparticiple>",
+            "ir": "habréis <s_pparticiple>",
+            "arse": "os habréis <s_pparticiple>",
+            "erse": "os habréis <s_pparticiple>",
+            "irse": "os habréis <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Indicativo; 3a persona; plural": [
+        {
+            "regular": "They will have <e_pparticiple>, they could have <e_pparticiple>",
+            "to_be_smth": "They will have been <e_pparticiple>, they could have been <e_pparticiple>",
+            "to_be": "They will have been, they could have been"
+        },
+        {
+            "ar": "habrán <s_pparticiple>",
+            "er": "habrán <s_pparticiple>",
+            "ir": "habrán <s_pparticiple>",
+            "arse": "se habrán <s_pparticiple>",
+            "erse": "se habrán <s_pparticiple>",
+            "irse": "se habrán <s_pparticiple>"
+        }
+    ],
+
+
+
+
+    "Pluscuamperfecto Indicativo; 1a persona; singular": [
+        {
+            "regular": "I had <e_pparticiple>",
+            "to_be_smth": "I had been <e_pparticiple>",
+            "to_be": "I had been"
+        },
+        {
+            "ar": "había <s_pparticiple>",
+            "er": "había <s_pparticiple>",
+            "ir": "había <s_pparticiple>",
+            "arse": "me había <s_pparticiple>",
+            "erse": "me había <s_pparticiple>",
+            "irse": "me había <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Indicativo; 2a persona; singular": [
+        {
+            "regular": "You had <e_pparticiple>",
+            "to_be_smth": "You had been <e_pparticiple>",
+            "to_be": "You had been"
+        },
+        {
+            "ar": "habías <s_pparticiple>",
+            "er": "habías <s_pparticiple>",
+            "ir": "habías <s_pparticiple>",
+            "arse": "te habías <s_pparticiple>",
+            "erse": "te habías <s_pparticiple>",
+            "irse": "te habías <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Indicativo; 3a persona; singular": [
+        {
+            "regular": "He had <e_pparticiple>",
+            "to_be_smth": "He had been <e_pparticiple>",
+            "to_be": "He had been"
+        },
+        {
+            "ar": "había <s_pparticiple>",
+            "er": "había <s_pparticiple>",
+            "ir": "había <s_pparticiple>",
+            "arse": "se había <s_pparticiple>",
+            "erse": "se había <s_pparticiple>",
+            "irse": "se había <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Indicativo; 1a persona; plural": [
+        {
+            "regular": "We had <e_pparticiple>",
+            "to_be_smth": "We had been <e_pparticiple>",
+            "to_be": "We had been"
+        },
+        {
+            "ar": "habíamos <s_pparticiple>",
+            "er": "habíamos <s_pparticiple>",
+            "ir": "habíamos <s_pparticiple>",
+            "arse": "nos habíamos <s_pparticiple>",
+            "erse": "nos habíamos <s_pparticiple>",
+            "irse": "nos habíamos <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all had <e_pparticiple>",
+            "to_be_smth": "You all had been <e_pparticiple>",
+            "to_be": "You all had been"
+        },
+        {
+            "ar": "habíais <s_pparticiple>",
+            "er": "habíais <s_pparticiple>",
+            "ir": "habíais <s_pparticiple>",
+            "arse": "os habíais <s_pparticiple>",
+            "erse": "os habíais <s_pparticiple>",
+            "irse": "os habíais <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Indicativo; 3a persona; plural": [
+        {
+            "regular": "They had <e_pparticiple>",
+            "to_be_smth": "They had been <e_pparticiple>",
+            "to_be": "They had been"
+        },
+        {
+            "ar": "habían <s_pparticiple>",
+            "er": "habían <s_pparticiple>",
+            "ir": "habían <s_pparticiple>",
+            "arse": "se habían <s_pparticiple>",
+            "erse": "se habían <s_pparticiple>",
+            "irse": "se habían <s_pparticiple>"
+        }
+    ],
+
+
+
+
+    "Pretérito anterior Indicativo; 1a persona; singular": [
+        {
+            "regular": "I had just <e_pparticiple>",
+            "to_be_smth": "I had just been <e_pparticiple>",
+            "to_be": "I had just been"
+        },
+        {
+            "ar": "hube <s_pparticiple>",
+            "er": "hube <s_pparticiple>",
+            "ir": "hube <s_pparticiple>",
+            "arse": "me hube <s_pparticiple>",
+            "erse": "me hube <s_pparticiple>",
+            "irse": "me hube <s_pparticiple>"
+        }
+    ],
+    "Pretérito anterior Indicativo; 2a persona; singular": [
+        {
+            "regular": "You had just <e_pparticiple>",
+            "to_be_smth": "You had just been <e_pparticiple>",
+            "to_be": "You had just been"
+        },
+        {
+            "ar": "hubiste <s_pparticiple>",
+            "er": "hubiste <s_pparticiple>",
+            "ir": "hubiste <s_pparticiple>",
+            "arse": "te hubiste <s_pparticiple>",
+            "erse": "te hubiste <s_pparticiple>",
+            "irse": "te hubiste <s_pparticiple>"
+        }
+    ],
+    "Pretérito anterior Indicativo; 3a persona; singular": [
+        {
+            "regular": "He had just <e_pparticiple>",
+            "to_be_smth": "He had just been <e_pparticiple>",
+            "to_be": "He had just been"
+        },
+        {
+            "ar": "hubo <s_pparticiple>",
+            "er": "hubo <s_pparticiple>",
+            "ir": "hubo <s_pparticiple>",
+            "arse": "se hubo <s_pparticiple>",
+            "erse": "se hubo <s_pparticiple>",
+            "irse": "se hubo <s_pparticiple>"
+        }
+    ],
+    "Pretérito anterior Indicativo; 1a persona; plural": [
+        {
+            "regular": "We had just <e_pparticiple>",
+            "to_be_smth": "We had just been <e_pparticiple>",
+            "to_be": "We had just been"
+        },
+        {
+            "ar": "hubimos <s_pparticiple>",
+            "er": "hubimos <s_pparticiple>",
+            "ir": "hubimos <s_pparticiple>",
+            "arse": "nos hubimos <s_pparticiple>",
+            "erse": "nos hubimos <s_pparticiple>",
+            "irse": "nos hubimos <s_pparticiple>"
+        }
+    ],
+    "Pretérito anterior Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all had just <e_pparticiple>",
+            "to_be_smth": "You all had just been <e_pparticiple>",
+            "to_be": "You all had just been"
+        },
+        {
+            "ar": "hubisteis <s_pparticiple>",
+            "er": "hubisteis <s_pparticiple>",
+            "ir": "hubisteis <s_pparticiple>",
+            "arse": "os hubisteis <s_pparticiple>",
+            "erse": "os hubisteis <s_pparticiple>",
+            "irse": "os hubisteis <s_pparticiple>"
+        }
+    ],
+    "Pretérito anterior Indicativo; 3a persona; plural": [
+        {
+            "regular": "They had just <e_pparticiple>",
+            "to_be_smth": "They had just been <e_pparticiple>",
+            "to_be": "They had just been"
+        },
+        {
+            "ar": "hubieron <s_pparticiple>",
+            "er": "hubieron <s_pparticiple>",
+            "ir": "hubieron <s_pparticiple>",
+            "arse": "se hubieron <s_pparticiple>",
+            "erse": "se hubieron <s_pparticiple>",
+            "irse": "se hubieron <s_pparticiple>"
+        }
+    ],
+
+
+
+
+    "Condicional perfecto Indicativo; 1a persona; singular": [
+        {
+            "regular": "I would have <e_pparticiple>",
+            "to_be_smth": "I would have been <e_pparticiple>",
+            "to_be": "I would have been"
+        },
+        {
+            "ar": "habría <s_pparticiple>",
+            "er": "habría <s_pparticiple>",
+            "ir": "habría <s_pparticiple>",
+            "arse": "me habría <s_pparticiple>",
+            "erse": "me habría <s_pparticiple>",
+            "irse": "me habría <s_pparticiple>"
+        }
+    ],
+    "Condicional perfecto Indicativo; 2a persona; singular": [
+        {
+            "regular": "You would have <e_pparticiple>",
+            "to_be_smth": "You would have been <e_pparticiple>",
+            "to_be": "You would have been"
+        },
+        {
+            "ar": "habrías <s_pparticiple>",
+            "er": "habrías <s_pparticiple>",
+            "ir": "habrías <s_pparticiple>",
+            "arse": "te habrías <s_pparticiple>",
+            "erse": "te habrías <s_pparticiple>",
+            "irse": "te habrías <s_pparticiple>"
+        }
+    ],
+    "Condicional perfecto Indicativo; 3a persona; singular": [
+        {
+            "regular": "He would have <e_pparticiple>",
+            "to_be_smth": "He would have been <e_pparticiple>",
+            "to_be": "He would have been"
+        },
+        {
+            "ar": "habría <s_pparticiple>",
+            "er": "habría <s_pparticiple>",
+            "ir": "habría <s_pparticiple>",
+            "arse": "se habría <s_pparticiple>",
+            "erse": "se habría <s_pparticiple>",
+            "irse": "se habría <s_pparticiple>"
+        }
+    ],
+    "Condicional perfecto Indicativo; 1a persona; plural": [
+        {
+            "regular": "We would have <e_pparticiple>",
+            "to_be_smth": "We would have been <e_pparticiple>",
+            "to_be": "We would have been"
+        },
+        {
+            "ar": "habríamos <s_pparticiple>",
+            "er": "habríamos <s_pparticiple>",
+            "ir": "habríamos <s_pparticiple>",
+            "arse": "nos habríamos <s_pparticiple>",
+            "erse": "nos habríamos <s_pparticiple>",
+            "irse": "nos habríamos <s_pparticiple>"
+        }
+    ],
+    "Condicional perfecto Indicativo; 2a persona; plural": [
+        {
+            "regular": "You all would have <e_pparticiple>",
+            "to_be_smth": "You all would have been <e_pparticiple>",
+            "to_be": "You all would have been"
+        },
+        {
+            "ar": "habríais <s_pparticiple>",
+            "er": "habríais <s_pparticiple>",
+            "ir": "habríais <s_pparticiple>",
+            "arse": "os habríais <s_pparticiple>",
+            "erse": "os habríais <s_pparticiple>",
+            "irse": "os habríais <s_pparticiple>"
+        }
+    ],
+    "Condicional perfecto Indicativo; 3a persona; plural": [
+        {
+            "regular": "They would have <e_pparticiple>",
+            "to_be_smth": "They would have been <e_pparticiple>",
+            "to_be": "They would have been"
+        },
+        {
+            "ar": "habrían <s_pparticiple>",
+            "er": "habrían <s_pparticiple>",
+            "ir": "habrían <s_pparticiple>",
+            "arse": "se habrían <s_pparticiple>",
+            "erse": "se habrían <s_pparticiple>",
+            "irse": "se habrían <s_pparticiple>"
+        }
+    ],
+
+
+
+
+    "Presente Subjuntivo; 1a persona; singular": [
+        {
+            "regular": "(I think that) I <e_present>, I am <e_gerund>",
+            "to_be_smth": "(I think that) I am <e_pparticiple>",
+            "to_be": "(I think that) I am"
+        },
+        {
+            "ar": "<s_stem>e",
+            "er": "<s_stem>a",
+            "ir": "<s_stem>a",
+            "arse": "me <s_stem>e",
+            "erse": "me <s_stem>a",
+            "irse": "me <s_stem>a"
+        }
+    ],
+    "Presente Subjuntivo; 2a persona; singular": [
+        {
+            "regular": "(I think that) you <e_present>, you are <e_gerund>",
+            "to_be_smth": "(I think that) you are <e_pparticiple>",
+            "to_be": "(I think that) you are"
+        },
+        {
+            "ar": "<s_stem>es",
+            "er": "<s_stem>as",
+            "ir": "<s_stem>as",
+            "arse": "te <s_stem>es",
+            "erse": "te <s_stem>as",
+            "irse": "te <s_stem>as"
+        }
+    ],
+    "Presente Subjuntivo; 3a persona; singular": [
+        {
+            "regular": "(I think that) he <e_present3p>, he is <e_gerund>",
+            "to_be_smth": "(I think that) he is <e_pparticiple>",
+            "to_be": "(I think that) he is"
+        },
+        {
+            "ar": "<s_stem>e",
+            "er": "<s_stem>a",
+            "ir": "<s_stem>a",
+            "arse": "se <s_stem>e",
+            "erse": "se <s_stem>a",
+            "irse": "se <s_stem>a"
+        }
+    ],
+    "Presente Subjuntivo; 1a persona; plural": [
+        {
+            "regular": "(I think that) we <e_present>, we are <e_gerund>",
+            "to_be_smth": "(I think that) we are <e_pparticiple>",
+            "to_be": "(I think that) we are"
+        },
+        {
+            "ar": "<s_stem>emos",
+            "er": "<s_stem>amos",
+            "ir": "<s_stem>amos",
+            "arse": "nos <s_stem>emos",
+            "erse": "nos <s_stem>amos",
+            "irse": "nos <s_stem>amos"
+        }
+    ],
+    "Presente Subjuntivo; 2a persona; plural": [
+        {
+            "regular": "(I think that) you all <e_present>, you all are <e_gerund>",
+            "to_be_smth": "(I think that) you all are <e_pparticiple>",
+            "to_be": "(I think that) you all are"
+        },
+        {
+            "ar": "<s_stem>éis",
+            "er": "<s_stem>áis",
+            "ir": "<s_stem>áis",
+            "arse": "os <s_stem>éis",
+            "erse": "os <s_stem>áis",
+            "irse": "os <s_stem>áis"
+        }
+    ],
+    "Presente Subjuntivo; 3a persona; plural": [
+        {
+            "regular": "(I think that) they <e_present>, they are <e_gerund>",
+            "to_be_smth": "(I think that) they are <e_pparticiple>",
+            "to_be": "(I think that) they are"
+        },
+        {
+            "ar": "<s_stem>en",
+            "er": "<s_stem>an",
+            "ir": "<s_stem>an",
+            "arse": "se <s_stem>en",
+            "erse": "se <s_stem>an",
+            "irse": "se <s_stem>an"
+        }
+    ],
+
+
+
+
+    "Imperfecto Subjuntivo; 1a persona; singular": [
+        {
+            "regular": "(I think that) I was <e_gerund>, I used to <e_present>, I <e_past>",
+            "to_be_smth": "(I think that) I was <e_pparticiple>, I used to <e_present>",
+            "to_be": "(I think that) I was, I used to be"
+        },
+        {
+            "ar": "<s_stem>ara",
+            "er": "<s_stem>iera",
+            "ir": "<s_stem>iera",
+            "arse": "me <s_stem>ara",
+            "erse": "me <s_stem>iera",
+            "irse": "me <s_stem>iera"
+        }
+    ],
+    "Imperfecto Subjuntivo; 2a persona; singular": [
+        {
+            "regular": "(I think that) you were <e_gerund>, you used to <e_present>, you <e_past>",
+            "to_be_smth": "(I think that) you were <e_pparticiple>, you used to <e_present>",
+            "to_be": "(I think that) you were, you used to be"
+        },
+        {
+            "ar": "<s_stem>aras",
+            "er": "<s_stem>ieras",
+            "ir": "<s_stem>ieras",
+            "arse": "te <s_stem>aras",
+            "erse": "te <s_stem>ieras",
+            "irse": "te <s_stem>ieras"
+        }
+    ],
+    "Imperfecto Subjuntivo; 3a persona; singular": [
+        {
+            "regular": "(I think that) he was <e_gerund>, he used to <e_present>, he <e_past>",
+            "to_be_smth": "(I think that) he was <e_pparticiple>, he used to <e_present>",
+            "to_be": "(I think that) he was, he used to be"
+        },
+        {
+            "ar": "<s_stem>ara",
+            "er": "<s_stem>iera",
+            "ir": "<s_stem>iera",
+            "arse": "se <s_stem>ara",
+            "erse": "se <s_stem>iera",
+            "irse": "se <s_stem>iera"
+        }
+    ],
+    "Imperfecto Subjuntivo; 1a persona; plural": [
+        {
+            "regular": "(I think that) we were <e_gerund>, we used to <e_present>, we <e_past>",
+            "to_be_smth": "(I think that) we were <e_pparticiple>, we used to <e_present>",
+            "to_be": "(I think that) we were, we used to be"
+        },
+        {
+            "ar": "<s_stem>áramos",
+            "er": "<s_stem>iéramos",
+            "ir": "<s_stem>iéramos",
+            "arse": "nos <s_stem>áramos",
+            "erse": "nos <s_stem>iéramos",
+            "irse": "nos <s_stem>iéramos"
+        }
+    ],
+    "Imperfecto Subjuntivo; 2a persona; plural": [
+        {
+            "regular": "(I think that) you all were <e_gerund>, you all used to <e_present>, you all <e_past>",
+            "to_be_smth": "(I think that) you all were <e_pparticiple>, you all used to <e_present>",
+            "to_be": "(I think that) you all were, you all used to be"
+        },
+        {
+            "ar": "<s_stem>arais",
+            "er": "<s_stem>ierais",
+            "ir": "<s_stem>ierais",
+            "arse": "os <s_stem>arais",
+            "erse": "os <s_stem>ierais",
+            "irse": "os <s_stem>ierais"
+        }
+    ],
+    "Imperfecto Subjuntivo; 3a persona; plural": [
+        {
+            "regular": "(I think that) they were <e_gerund>, they used to <e_present>, they <e_past>",
+            "to_be_smth": "(I think that) they were <e_pparticiple>, they used to <e_present>",
+            "to_be": "(I think that) they were, they used to be"
+        },
+        {
+            "ar": "<s_stem>aran",
+            "er": "<s_stem>ieran",
+            "ir": "<s_stem>ieran",
+            "arse": "se <s_stem>aran",
+            "erse": "se <s_stem>ieran",
+            "irse": "se <s_stem>ieran"
+        }
+    ],
+
+
+
+
+    "Futuro Subjuntivo; 1a persona; singular": [
+        {
+            "regular": "(I think that) I will <e_present>",
+            "to_be_smth": "(I think that) I will <e_present>",
+            "to_be": "(I think that) I will be"
+        },
+        {
+            "ar": "<s_stem>are",
+            "er": "<s_stem>iere",
+            "ir": "<s_stem>iere",
+            "arse": "me <s_stem>are",
+            "erse": "me <s_stem>iere",
+            "irse": "me <s_stem>iere"
+        }
+    ],
+    "Futuro Subjuntivo; 2a persona; singular": [
+        {
+            "regular": "(I think that) you will <e_present>",
+            "to_be_smth": "(I think that) you will <e_present>",
+            "to_be": "(I think that) you will be"
+        },
+        {
+            "ar": "<s_stem>ares",
+            "er": "<s_stem>ieres",
+            "ir": "<s_stem>ieres",
+            "arse": "te <s_stem>ares",
+            "erse": "te <s_stem>ieres",
+            "irse": "te <s_stem>ieres"
+        }
+    ],
+    "Futuro Subjuntivo; 3a persona; singular": [
+        {
+            "regular": "(I think that) he will <e_present>",
+            "to_be_smth": "(I think that) he will <e_present>",
+            "to_be": "(I think that) he will be"
+        },
+        {
+            "ar": "<s_stem>are",
+            "er": "<s_stem>iere",
+            "ir": "<s_stem>iere",
+            "arse": "se <s_stem>are",
+            "erse": "se <s_stem>iere",
+            "irse": "se <s_stem>iere"
+        }
+    ],
+    "Futuro Subjuntivo; 1a persona; plural": [
+        {
+            "regular": "(I think that) we will <e_present>",
+            "to_be_smth": "(I think that) we will <e_present>",
+            "to_be": "(I think that) we will be"
+        },
+        {
+            "ar": "<s_stem>áremos",
+            "er": "<s_stem>iéremos",
+            "ir": "<s_stem>iéremos",
+            "arse": "nos <s_stem>áremos",
+            "erse": "nos <s_stem>iéremos",
+            "irse": "nos <s_stem>iéremos"
+        }
+    ],
+    "Futuro Subjuntivo; 2a persona; plural": [
+        {
+            "regular": "(I think that) you all will <e_present>",
+            "to_be_smth": "(I think that) you all will <e_present>",
+            "to_be": "(I think that) you all will be"
+        },
+        {
+            "ar": "<s_stem>areis",
+            "er": "<s_stem>iereis",
+            "ir": "<s_stem>iereis",
+            "arse": "os <s_stem>areis",
+            "erse": "os <s_stem>iereis",
+            "irse": "os <s_stem>iereis"
+        }
+    ],
+    "Futuro Subjuntivo; 3a persona; plural": [
+        {
+            "regular": "(I think that) they will <e_present>",
+            "to_be_smth": "(I think that) they will <e_present>",
+            "to_be": "(I think that) they will be"
+        },
+        {
+            "ar": "<s_stem>aren",
+            "er": "<s_stem>ieren",
+            "ir": "<s_stem>ieren",
+            "arse": "se <s_stem>aren",
+            "erse": "se <s_stem>ieren",
+            "irse": "se <s_stem>ieren"
+        }
+    ],
+
+
+
+
+    "Presente perfecto Subjuntivo; 1a persona; singular": [
+        {
+            "regular": "(I think that) I have <e_pparticiple>",
+            "to_be_smth": "(I think that) I have been <e_pparticiple>",
+            "to_be": "(I think that) I have been"
+        },
+        {
+            "ar": "haya <s_pparticiple>",
+            "er": "haya <s_pparticiple>",
+            "ir": "haya <s_pparticiple>",
+            "arse": "me haya <s_pparticiple>",
+            "erse": "me haya <s_pparticiple>",
+            "irse": "me haya <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Subjuntivo; 2a persona; singular": [
+        {
+            "regular": "(I think that) you have <e_pparticiple>",
+            "to_be_smth": "(I think that) you have been <e_pparticiple>",
+            "to_be": "(I think that) you have been"
+        },
+        {
+            "ar": "hayas <s_pparticiple>",
+            "er": "hayas <s_pparticiple>",
+            "ir": "hayas <s_pparticiple>",
+            "arse": "te hayas <s_pparticiple>",
+            "erse": "te hayas <s_pparticiple>",
+            "irse": "te hayas <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Subjuntivo; 3a persona; singular": [
+        {
+            "regular": "(I think that) he has <e_pparticiple>",
+            "to_be_smth": "(I think that) he has been <e_pparticiple>",
+            "to_be": "(I think that) he has been"
+        },
+        {
+            "ar": "haya <s_pparticiple>",
+            "er": "haya <s_pparticiple>",
+            "ir": "haya <s_pparticiple>",
+            "arse": "se haya <s_pparticiple>",
+            "erse": "se haya <s_pparticiple>",
+            "irse": "se haya <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Subjuntivo; 1a persona; plural": [
+        {
+            "regular": "(I think that) we have <e_pparticiple>",
+            "to_be_smth": "(I think that) we have been <e_pparticiple>",
+            "to_be": "(I think that) we have been"
+        },
+        {
+            "ar": "hayamos <s_pparticiple>",
+            "er": "hayamos <s_pparticiple>",
+            "ir": "hayamos <s_pparticiple>",
+            "arse": "nos hayamos <s_pparticiple>",
+            "erse": "nos hayamos <s_pparticiple>",
+            "irse": "nos hayamos <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Subjuntivo; 2a persona; plural": [
+        {
+            "regular": "(I think that) you all have <e_pparticiple>",
+            "to_be_smth": "(I think that) you all have been <e_pparticiple>",
+            "to_be": "(I think that) you all have been"
+        },
+        {
+            "ar": "hayáis <s_pparticiple>",
+            "er": "hayáis <s_pparticiple>",
+            "ir": "hayáis <s_pparticiple>",
+            "arse": "os hayáis <s_pparticiple>",
+            "erse": "os hayáis <s_pparticiple>",
+            "irse": "os hayáis <s_pparticiple>"
+        }
+    ],
+    "Presente perfecto Subjuntivo; 3a persona; plural": [
+        {
+            "regular": "(I think that) they have <e_pparticiple>",
+            "to_be_smth": "(I think that) they have been <e_pparticiple>",
+            "to_be": "(I think that) they all have been"
+        },
+        {
+            "ar": "hayan <s_pparticiple>",
+            "er": "hayan <s_pparticiple>",
+            "ir": "hayan <s_pparticiple>",
+            "arse": "se hayan <s_pparticiple>",
+            "erse": "se hayan <s_pparticiple>",
+            "irse": "se hayan <s_pparticiple>"
+        }
+    ],
+
+
+
+
+    "Futuro perfecto Subjuntivo; 1a persona; singular": [
+        {
+            "regular": "(I think that) I will have <e_pparticiple>, I could have <e_pparticiple>",
+            "to_be_smth": "(I think that) I will have been <e_pparticiple>, I could have been <e_pparticiple>",
+            "to_be": "(I think that) I will have been, I could have been"
+        },
+        {
+            "ar": "hubiere <s_pparticiple>",
+            "er": "hubiere <s_pparticiple>",
+            "ir": "hubiere <s_pparticiple>",
+            "arse": "me hubiere <s_pparticiple>",
+            "erse": "me hubiere <s_pparticiple>",
+            "irse": "me hubiere <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Subjuntivo; 2a persona; singular": [
+        {
+            "regular": "(I think that) you will have <e_pparticiple>, you could have <e_pparticiple>",
+            "to_be_smth": "(I think that) you will have been <e_pparticiple>, you could have been <e_pparticiple>",
+            "to_be": "(I think that) you will have been, you could have been"
+        },
+        {
+            "ar": "hubieres <s_pparticiple>",
+            "er": "hubieres <s_pparticiple>",
+            "ir": "hubieres <s_pparticiple>",
+            "arse": "te hubieres <s_pparticiple>",
+            "erse": "te hubieres <s_pparticiple>",
+            "irse": "te hubieres <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Subjuntivo; 3a persona; singular": [
+        {
+            "regular": "(I think that) he will have <e_pparticiple>, he could have <e_pparticiple>",
+            "to_be_smth": "(I think that) he will have been <e_pparticiple>, he could have been <e_pparticiple>",
+            "to_be": "(I think that) he will have been, he could have been"
+        },
+        {
+            "ar": "hubiere <s_pparticiple>",
+            "er": "hubiere <s_pparticiple>",
+            "ir": "hubiere <s_pparticiple>",
+            "arse": "se hubiere <s_pparticiple>",
+            "erse": "se hubiere <s_pparticiple>",
+            "irse": "se hubiere <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Subjuntivo; 1a persona; plural": [
+        {
+            "regular": "(I think that) we will have <e_pparticiple>, we could have <e_pparticiple>",
+            "to_be_smth": "(I think that) we will have been <e_pparticiple>, we could have been <e_pparticiple>",
+            "to_be": "(I think that) we will have been, we could have been"
+        },
+        {
+            "ar": "hubiéremos <s_pparticiple>",
+            "er": "hubiéremos <s_pparticiple>",
+            "ir": "hubiéremos <s_pparticiple>",
+            "arse": "nos hubiéremos <s_pparticiple>",
+            "erse": "nos hubiéremos <s_pparticiple>",
+            "irse": "nos hubiéremos <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Subjuntivo; 2a persona; plural": [
+        {
+            "regular": "(I think that) you all will have <e_pparticiple>, you all could have <e_pparticiple>",
+            "to_be_smth": "(I think that) you all will have been <e_pparticiple>, you all could have been <e_pparticiple>",
+            "to_be": "(I think that) you all will have been, you all could have been"
+        },
+        {
+            "ar": "hubiereis <s_pparticiple>",
+            "er": "hubiereis <s_pparticiple>",
+            "ir": "hubiereis <s_pparticiple>",
+            "arse": "os hubiereis <s_pparticiple>",
+            "erse": "os hubiereis <s_pparticiple>",
+            "irse": "os hubiereis <s_pparticiple>"
+        }
+    ],
+    "Futuro perfecto Subjuntivo; 3a persona; plural": [
+        {
+            "regular": "(I think that) they will have <e_pparticiple>, they could have <e_pparticiple>",
+            "to_be_smth": "(I think that) they will have been <e_pparticiple>, they could have been <e_pparticiple>",
+            "to_be": "(I think that) they will have been, they could have been"
+        },
+        {
+            "ar": "hubieren <s_pparticiple>",
+            "er": "hubieren <s_pparticiple>",
+            "ir": "hubieren <s_pparticiple>",
+            "arse": "se hubieren <s_pparticiple>",
+            "erse": "se hubieren <s_pparticiple>",
+            "irse": "se hubieren <s_pparticiple>"
+        }
+    ],
+
+
+
+
+    "Pluscuamperfecto Subjuntivo; 1a persona; singular": [
+        {
+            "regular": "(I think that) I had <e_pparticiple>",
+            "to_be_smth": "(I think that) I had been <e_pparticiple>",
+            "to_be": "(I think that) I had been"
+        },
+        {
+            "ar": "hubiera <s_pparticiple>",
+            "er": "hubiera <s_pparticiple>",
+            "ir": "hubiera <s_pparticiple>",
+            "arse": "me hubiera <s_pparticiple>",
+            "erse": "me hubiera <s_pparticiple>",
+            "irse": "me hubiera <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Subjuntivo; 2a persona; singular": [
+        {
+            "regular": "(I think that) you had <e_pparticiple>",
+            "to_be_smth": "(I think that) you had been <e_pparticiple>",
+            "to_be": "(I think that) you had been"
+        },
+        {
+            "ar": "hubieras <s_pparticiple>",
+            "er": "hubieras <s_pparticiple>",
+            "ir": "hubieras <s_pparticiple>",
+            "arse": "te hubieras <s_pparticiple>",
+            "erse": "te hubieras <s_pparticiple>",
+            "irse": "te hubieras <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Subjuntivo; 3a persona; singular": [
+        {
+            "regular": "(I think that) he had <e_pparticiple>",
+            "to_be_smth": "(I think that) he had been <e_pparticiple>",
+            "to_be": "(I think that) he had been"
+        },
+        {
+            "ar": "hubiera <s_pparticiple>",
+            "er": "hubiera <s_pparticiple>",
+            "ir": "hubiera <s_pparticiple>",
+            "arse": "se hubiera <s_pparticiple>",
+            "erse": "se hubiera <s_pparticiple>",
+            "irse": "se hubiera <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Subjuntivo; 1a persona; plural": [
+        {
+            "regular": "(I think that) we had <e_pparticiple>",
+            "to_be_smth": "(I think that) we had been <e_pparticiple>",
+            "to_be": "(I think that) we had been"
+        },
+        {
+            "ar": "hubiéramos <s_pparticiple>",
+            "er": "hubiéramos <s_pparticiple>",
+            "ir": "hubiéramos <s_pparticiple>",
+            "arse": "nos hubiéramos <s_pparticiple>",
+            "erse": "nos hubiéramos <s_pparticiple>",
+            "irse": "nos hubiéramos <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Subjuntivo; 2a persona; plural": [
+        {
+            "regular": "(I think that) you all had <e_pparticiple>",
+            "to_be_smth": "(I think that) you all had been <e_pparticiple>",
+            "to_be": "(I think that) you all had been"
+        },
+        {
+            "ar": "hubierais <s_pparticiple>",
+            "er": "hubierais <s_pparticiple>",
+            "ir": "hubierais <s_pparticiple>",
+            "arse": "os hubierais <s_pparticiple>",
+            "erse": "os hubierais <s_pparticiple>",
+            "irse": "os hubierais <s_pparticiple>"
+        }
+    ],
+    "Pluscuamperfecto Subjuntivo; 3a persona; plural": [
+        {
+            "regular": "(I think that) they had <e_pparticiple>",
+            "to_be_smth": "(I think that) they had been <e_pparticiple>",
+            "to_be": "(I think that) they had been"
+        },
+        {
+            "ar": "hubieran <s_pparticiple>",
+            "er": "hubieran <s_pparticiple>",
+            "ir": "hubieran <s_pparticiple>",
+            "arse": "se hubieran <s_pparticiple>",
+            "erse": "se hubieran <s_pparticiple>",
+            "irse": "se hubieran <s_pparticiple>"
+        }
+    ],
+
+
+
+
+    "Participio": [
+        {
+            "regular": "<e_pparticiple>",
+            "to_be_smth": "<e_pparticiple>",
+            "to_be": "been"
+        },
+        {
+            "ar": "<s_stem>ado",
+            "er": "<s_stem>ido",
+            "ir": "<s_stem>ido",
+            "arse": "<s_stem>ado",
+            "erse": "<s_stem>ido",
+            "irse": "<s_stem>ido"
+        }
+    ],
+
+
+
+
+    "Gerundio": [
+        {
+            "regular": "<e_gerund>",
+            "to_be_smth": "<e_gerund>",
+            "to_be": "being"
+        },
+        {
+            "ar": "<s_stem>ando",
+            "er": "<s_stem>iendo",
+            "ir": "<s_stem>iendo",
+            "arse": "<s_stem>ándose",
+            "erse": "<s_stem>iéndose",
+            "irse": "<s_stem>iéndose"
+        }
+    ],
+
+
+
+
+    "Presente Imperativo Afirmativo; 2a persona; singular": [
+        {
+            "regular": "You, <e_present>!",
+            "to_be_smth": "You, <e_present>!",
+            "to_be": "You, be!"
+        },
+        {
+            "ar": "<s_stem>a",
+            "er": "<s_stem>e",
+            "ir": "<s_stem>e",
+            "arse": "<s_stem_stressed>ate",
+            "erse": "<s_stem_stressed>ete",
+            "irse": "<s_stem_stressed>ete"
+        }
+    ],
+    "Presente Imperativo Afirmativo; 3a persona; singular": [
+        {
+            "regular": "You (polite), <e_present>!",
+            "to_be_smth": "You (polite), <e_present>!",
+            "to_be": "You (polite), be!"
+        },
+        {
+            "ar": "<s_stem>e",
+            "er": "<s_stem>a",
+            "ir": "<s_stem>a",
+            "arse": "<s_stem_stressed>ese",
+            "erse": "<s_stem_stressed>ase",
+            "irse": "<s_stem_stressed>ase"
+        }
+    ],
+    "Presente Imperativo Afirmativo; 1a persona; plural": [
+        {
+            "regular": "Let's <e_present>!",
+            "to_be_smth": "Let's <e_present>!",
+            "to_be": "Let's be!"
+        },
+        {
+            "ar": "<s_stem>emos",
+            "er": "<s_stem>amos",
+            "ir": "<s_stem>amos",
+            "arse": "<s_stem>émonos",
+            "erse": "<s_stem>ámonos",
+            "irse": "<s_stem>ámonos"
+        }
+    ],
+    "Presente Imperativo Afirmativo; 2a persona; plural": [
+        {
+            "regular": "You all, <e_present>!",
+            "to_be_smth": "You all, <e_present>!",
+            "to_be": "You all, be!"
+        },
+        {
+            "ar": "<s_stem>ad",
+            "er": "<s_stem>ed",
+            "ir": "<s_stem>id",
+            "arse": "<s_stem>aos",
+            "erse": "<s_stem>eos",
+            "irse": "<s_stem>íos"
+        }
+    ],
+    "Presente Imperativo Afirmativo; 3a persona; plural": [
+        {
+            "regular": "You all (polite), <e_present>!",
+            "to_be_smth": "You all (polite), <e_present>!",
+            "to_be": "You all (poilte), be!"
+        },
+        {
+            "ar": "<s_stem>en",
+            "er": "<s_stem>an",
+            "ir": "<s_stem>an",
+            "arse": "<s_stem_stressed>ense",
+            "erse": "<s_stem_stressed>anse",
+            "irse": "<s_stem_stressed>anse"
+        }
+    ],
+
+
+
+
+    "Presente Imperativo Negativo; 2a persona; singular": [
+        {
+            "regular": "You, don't <e_present>!",
+            "to_be_smth": "You, don't <e_present>!",
+            "to_be": "You, don't be!"
+        },
+        {
+            "ar": "no <s_stem>es",
+            "er": "no <s_stem>as",
+            "ir": "no <s_stem>as",
+            "arse": "no te <s_stem>es",
+            "erse": "no te <s_stem>as",
+            "irse": "no te <s_stem>as"
+        }
+    ],
+    "Presente Imperativo Negativo; 3a persona; singular": [
+        {
+            "regular": "You (poilte), don't <e_present>!",
+            "to_be_smth": "You (poilte), don't <e_present>!",
+            "to_be": "You (polite), don't be!"
+        },
+        {
+            "ar": "no <s_stem>e",
+            "er": "no <s_stem>a",
+            "ir": "no <s_stem>a",
+            "arse": "no se <s_stem>e",
+            "erse": "no se <s_stem>a",
+            "irse": "no se <s_stem>a"
+        }
+    ],
+    "Presente Imperativo Negativo; 1a persona; plural": [
+        {
+            "regular": "Let's not <e_present>!",
+            "to_be_smth": "Let's not <e_present>!",
+            "to_be": "Let's not be!"
+        },
+        {
+            "ar": "no <s_stem>emos",
+            "er": "no <s_stem>amos",
+            "ir": "no <s_stem>amos",
+            "arse": "no nos <s_stem>emos",
+            "erse": "no nos <s_stem>amos",
+            "irse": "no nos <s_stem>amos"
+        }
+    ],
+    "Presente Imperativo Negativo; 2a persona; plural": [
+        {
+            "regular": "You all, don't <e_present>!",
+            "to_be_smth": "You all, don't <e_present>!",
+            "to_be": "You all, don't be!"
+        },
+        {
+            "ar": "no <s_stem>éis",
+            "er": "no <s_stem>áis",
+            "ir": "no <s_stem>áis",
+            "arse": "no os <s_stem>éis",
+            "erse": "no os <s_stem>áis",
+            "irse": "no os <s_stem>áis"
+        }
+    ],
+    "Presente Imperativo Negativo; 3a persona; plural": [
+        {
+            "regular": "You all (poilte), don't <e_present>!",
+            "to_be_smth": "You all (poilte), don't <e_present>!",
+            "to_be": "You all (polite), don't be!"
+        },
+        {
+            "ar": "no <s_stem>en",
+            "er": "no <s_stem>an",
+            "ir": "no <s_stem>an",
+            "arse": "no se <s_stem>en",
+            "erse": "no se <s_stem>an",
+            "irse": "no se <s_stem>an"
+        }
+    ]
+}

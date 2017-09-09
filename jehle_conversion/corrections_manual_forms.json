@@ -1,0 +1,366 @@
+{
+     "haber": {
+        "e_present": "have",
+        "e_present3p": "has",
+        "e_past": "had",
+        "e_pparticiple": "had",
+        "e_gerund": "having",
+        "english_disambiguation": "auxiliary",
+        "irregular_forms": {
+            "Presente Indicativo; 1a persona; singular": "he",
+            "Presente Indicativo; 2a persona; singular": "has",
+            "Presente Indicativo; 3a persona; singular": "ha",
+            "Presente Indicativo; 1a persona; plural": "hemos",
+            "Presente Indicativo; 3a persona; plural": "han",
+
+            "Pretérito Indicativo; 1a persona; singular": "hube",
+            "Pretérito Indicativo; 2a persona; singular": "hubiste",
+            "Pretérito Indicativo; 3a persona; singular": "hubo",
+            "Pretérito Indicativo; 1a persona; plural": "hubimos",
+            "Pretérito Indicativo; 2a persona; plural": "hubisteis",
+            "Pretérito Indicativo; 3a persona; plural": "hubieron",
+
+            "Condicional Indicativo; 1a persona; singular": "habría",
+            "Condicional Indicativo; 2a persona; singular": "habrías",
+            "Condicional Indicativo; 3a persona; singular": "habría",
+            "Condicional Indicativo; 1a persona; plural": "habríamos",
+            "Condicional Indicativo; 2a persona; plural": "habríais",
+            "Condicional Indicativo; 3a persona; plural": "habrían",
+
+            "Futuro Indicativo; 1a persona; singular": "habré",
+            "Futuro Indicativo; 2a persona; singular": "habrás",
+            "Futuro Indicativo; 3a persona; singular": "habrá",
+            "Futuro Indicativo; 1a persona; plural": "habremos",
+            "Futuro Indicativo; 2a persona; plural": "habréis",
+            "Futuro Indicativo; 3a persona; plural": "habrán",
+
+            "Presente Subjuntivo; 1a persona; singular": "haya",
+            "Presente Subjuntivo; 2a persona; singular": "hayas",
+            "Presente Subjuntivo; 3a persona; singular": "haya",
+            "Presente Subjuntivo; 1a persona; plural": "hayamos",
+            "Presente Subjuntivo; 2a persona; plural": "hayáis",
+            "Presente Subjuntivo; 3a persona; plural": "hayan",
+
+            "Imperfecto Subjuntivo; 1a persona; singular": "hubiera",
+            "Imperfecto Subjuntivo; 2a persona; singular": "hubieras",
+            "Imperfecto Subjuntivo; 3a persona; singular": "hubiera",
+            "Imperfecto Subjuntivo; 1a persona; plural": "hubiéramos",
+            "Imperfecto Subjuntivo; 2a persona; plural": "hubierais",
+            "Imperfecto Subjuntivo; 3a persona; plural": "hubieran",
+
+            "Futuro Subjuntivo; 1a persona; singular": "hubiere",
+            "Futuro Subjuntivo; 2a persona; singular": "hubieres",
+            "Futuro Subjuntivo; 3a persona; singular": "hubiere",
+            "Futuro Subjuntivo; 1a persona; plural": "hubiéremos",
+            "Futuro Subjuntivo; 2a persona; plural": "hubiereis",
+            "Futuro Subjuntivo; 3a persona; plural": "hubieren",
+
+            "Presente Imperativo Afirmativo; 2a persona; singular": "he",
+            "Presente Imperativo Afirmativo; 3a persona; singular": "haya",
+            "Presente Imperativo Afirmativo; 1a persona; plural": "hayamos",
+            "Presente Imperativo Afirmativo; 3a persona; plural": "hayan",
+
+            "Presente Imperativo Negativo; 2a persona; singular": "no hayas",
+            "Presente Imperativo Negativo; 3a persona; singular": "no haya",
+            "Presente Imperativo Negativo; 1a persona; plural": "no hayamos",
+            "Presente Imperativo Negativo; 2a persona; plural": "no hayáis",
+            "Presente Imperativo Negativo; 3a persona; plural": "no hayan"
+        },
+        "english_template_type": "regular"
+    },
+
+    "complicar": {
+        "e_present": "complicate",
+        "e_present3p": "complicates",
+        "e_past": "complicated",
+        "e_pparticiple": "complicated",
+        "e_gerund": "complicating",
+        "english_disambiguation": "",
+        "irregular_forms": {
+            "Pretérito Indicativo; 1a persona; singular": "compliqué",
+            "Presente Subjuntivo; 1a persona; singular": "complique",
+            "Presente Subjuntivo; 2a persona; singular": "compliques",
+            "Presente Subjuntivo; 3a persona; singular": "complique",
+            "Presente Subjuntivo; 1a persona; plural": "compliquemos",
+            "Presente Subjuntivo; 2a persona; plural": "compliquéis",
+            "Presente Subjuntivo; 3a persona; plural": "compliquen",
+            "Presente Imperativo Afirmativo; 3a persona; singular": "complique",
+            "Presente Imperativo Afirmativo; 3a persona; plural": "compliquen",
+            "Presente Imperativo Negativo; 2a persona; singular": "no compliques",
+            "Presente Imperativo Negativo; 3a persona; singular": "no complique",
+            "Presente Imperativo Negativo; 2a persona; plural": "no compliquéis",
+            "Presente Imperativo Negativo; 3a persona; plural": "no compliquen",
+            "Presente Imperativo Afirmativo; 1a persona; plural": "compliquemos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no compliquemos"
+        },
+        "english_template_type": "regular"
+    },
+
+    "poseer": {
+        "e_present": "possess",
+        "e_present3p": "possesses",
+        "e_past": "possessed",
+        "e_pparticiple": "possessed",
+        "e_gerund": "possessing",
+        "english_disambiguation": "",
+        "irregular_forms": {
+            "Participio": "poseído",
+            "Gerundio": "poseyendo",
+            "Pretérito Indicativo; 2a persona; singular": "poseíste",
+            "Pretérito Indicativo; 3a persona; singular": "poseyó",
+            "Pretérito Indicativo; 1a persona; plural": "poseímos",
+            "Pretérito Indicativo; 2a persona; plural": "poseísteis",
+            "Pretérito Indicativo; 3a persona; plural": "poseyeron",
+            "Imperfecto Subjuntivo; 1a persona; singular": "poseyera",
+            "Imperfecto Subjuntivo; 2a persona; singular": "poseyeras",
+            "Imperfecto Subjuntivo; 3a persona; singular": "poseyera",
+            "Imperfecto Subjuntivo; 1a persona; plural": "poseyéramos",
+            "Imperfecto Subjuntivo; 2a persona; plural": "poseyerais",
+            "Imperfecto Subjuntivo; 3a persona; plural": "poseyeran",
+            "Futuro Subjuntivo; 1a persona; singular": "poseyere",
+            "Futuro Subjuntivo; 2a persona; singular": "poseyeres",
+            "Futuro Subjuntivo; 3a persona; singular": "poseyere",
+            "Futuro Subjuntivo; 1a persona; plural": "poseyéremos",
+            "Futuro Subjuntivo; 2a persona; plural": "poseyereis",
+            "Futuro Subjuntivo; 3a persona; plural": "poseyeren"
+        },
+        "english_template_type": "regular"
+    },
+
+    "entusiasmarse": {
+        "irregular_forms": {}
+    },
+
+    "maquillarse": {
+        "irregular_forms": {}
+    },
+
+    "arrepentirse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "arrepintámonos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no nos arrepintamos"
+        }
+    },
+
+    "desagradecer": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 1a persona; plural": "desagradezcamos",
+            "Presente Imperativo Negativo; 1a persona; plural": "no desagradezcamos"
+        }
+    },
+
+    "imprimir": {
+        "irregular_forms": {
+            "Participio": "imprimido"
+        }
+    },
+
+    "doler": {
+        "irregular_forms": {
+            "Presente Indicativo; 1a persona; singular": "duelo",
+            "Presente Indicativo; 2a persona; singular": "dueles",
+            "Presente Subjuntivo; 1a persona; singular": "duela",
+            "Presente Subjuntivo; 2a persona; singular": "duelas"
+        }
+    },
+
+    "llover": {
+        "irregular_forms": {
+            "Presente Indicativo; 1a persona; singular": "lluevo",
+            "Presente Indicativo; 2a persona; singular": "llueves",
+            "Presente Indicativo; 2a persona; plural": "llovéis",
+            "Presente Indicativo; 3a persona; plural": "llueven",
+            "Presente Subjuntivo; 1a persona; singular": "llueva",
+            "Presente Subjuntivo; 2a persona; singular": "lluevas",
+            "Presente Subjuntivo; 3a persona; plural": "lluevan"
+        }
+    },
+
+    "nevar": {
+        "irregular_forms": {
+            "Presente Indicativo; 1a persona; singular": "nievo",
+            "Presente Indicativo; 2a persona; singular": "nievas",
+            "Presente Indicativo; 2a persona; plural": "neváis",
+            "Presente Indicativo; 3a persona; plural": "nievan",
+            "Presente Subjuntivo; 1a persona; singular": "nieve",
+            "Presente Subjuntivo; 2a persona; singular": "nieves",
+            "Presente Subjuntivo; 3a persona; plural": "nieven"
+        }
+    },
+
+    "predecir": {
+        "irregular_forms": {
+            "Futuro Indicativo; 1a persona; singular": "prediré",
+            "Futuro Indicativo; 2a persona; singular": "predirás",
+            "Futuro Indicativo; 3a persona; singular": "predirá",
+            "Futuro Indicativo; 1a persona; plural": "prediremos",
+            "Futuro Indicativo; 2a persona; plural": "prediréis",
+            "Futuro Indicativo; 3a persona; plural": "predirán",
+            "Condicional Indicativo; 1a persona; singular": "prediría",
+            "Condicional Indicativo; 2a persona; singular": "predirías",
+            "Condicional Indicativo; 3a persona; singular": "prediría",
+            "Condicional Indicativo; 1a persona; plural": "prediríamos",
+            "Condicional Indicativo; 2a persona; plural": "prediríais",
+            "Condicional Indicativo; 3a persona; plural": "predirían"
+        }
+    },
+
+    "acercarse": {
+        "irregular_forms": {
+            "Pretérito Indicativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "alegrarse": {
+        "irregular_forms": {
+            "Pretérito Indicativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "bendecir": {
+        "irregular_forms": {
+            "Participio": "bendecido"
+        }
+    },
+
+    "criar": {
+        "irregular_forms": {
+            "Presente Indicativo; 2a persona; plural": "criais",
+            "Pretérito Indicativo; 3a persona; singular": "crió",
+            "Presente Subjuntivo; 2a persona; plural": "crieis",
+            "Presente Imperativo Negativo; 2a persona; plural": "no crieis"
+        }
+    },
+
+    "criarse": {
+        "irregular_forms": {
+            "Presente Indicativo; 2a persona; plural": "os criais",
+            "Pretérito Indicativo; 3a persona; singular": "se crió",
+            "Presente Subjuntivo; 2a persona; plural": "os crieis",
+            "Presente Imperativo Negativo; 2a persona; plural": "no os crieis"
+        }
+    },
+
+    "divorciarse": {
+        "irregular_forms": {
+            "Pretérito Indicativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "equivocarse": {
+        "irregular_forms": {
+            "Pretérito Indicativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "freír": {
+        "irregular_forms": {
+            "Presente Subjuntivo; 2a persona; plural": "friais",
+            "Presente Imperativo Negativo; 2a persona; plural": "no friais"
+        }
+    },
+
+    "gruñir": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "graduar": {
+        "irregular_forms": {
+            "Presente Imperativo Negativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "guiar": {
+        "irregular_forms": {
+            "Presente Indicativo; 2a persona; plural": "guiais",
+            "Pretérito Indicativo; 1a persona; singular": "guié",
+            "Pretérito Indicativo; 3a persona; singular": "guió",
+            "Presente Subjuntivo; 2a persona; plural": "guieis",
+            "Presente Imperativo Negativo; 2a persona; plural": "no guieis"
+        }
+    },
+
+    "huir": {
+        "irregular_forms": {
+            "Presente Indicativo; 2a persona; plural": "huis"
+        }
+    },
+
+    "invertir": {
+        "irregular_forms": {
+            "Imperfecto Subjuntivo; 1a persona; plural": "invirtiéramos"
+        }
+    },
+
+    "lavarse": {
+        "irregular_forms": {
+            "Pretérito Indicativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "levantarse": {
+        "irregular_forms": {
+            "Pretérito Indicativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "moverse": {
+        "irregular_forms": {
+            "Presente Imperativo Afirmativo; 2a persona; plural": "moveos"
+        }
+    },
+
+    "presentir": {
+        "irregular_forms": {
+            "Imperfecto Subjuntivo; 1a persona; plural": "presintiéramos"
+        }
+    },
+
+    "quebrarse": {
+        "irregular_forms": {
+            "Pretérito Indicativo; 2a persona; plural": "<delete>"
+        }
+    },
+
+    "reír": {
+        "irregular_forms": {
+            "Presente Subjuntivo; 2a persona; plural": "riais"
+        }
+    },
+
+    "secarse": {
+        "irregular_forms": {
+            "Pretérito Indicativo; 2a persona; plural": "<delete>",
+            "Presente Imperativo Afirmativo; 2a persona; singular": "<delete>",
+            "Presente Imperativo Afirmativo; 3a persona; singular": "séquese",
+            "Presente Imperativo Afirmativo; 3a persona; plural": "séquense"
+        }
+    },
+
+    "sentirse": {
+        "irregular_forms": {
+            "Presente Imperativo Negativo; 2a persona; plural": "no os sintáis"
+        }
+    },
+
+    "ser": {
+        "irregular_forms": {
+            "Presente Imperativo Negativo; 2a persona; plural": "no seáis"
+        }
+    },
+
+    "tropezar": {
+        "irregular_forms": {
+            "Presente Subjuntivo; 2a persona; plural": "tropecéis",
+            "Presente Imperativo Negativo; 2a persona; plural": "no tropecéis"
+        }
+    },
+
+    "vestirse": {
+        "irregular_forms": {
+            "Presente Imperativo Negativo; 2a persona; plural": "no os vistáis"
+        }
+    }
+}
