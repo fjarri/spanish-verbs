@@ -1,4 +1,5 @@
 import json
+import collections
 
 
 with open('template.json') as f:
@@ -113,5 +114,9 @@ def load_verbs():
 
 def save_corrected_verbs():
     verbs = load_verbs()
+    sorted_verbs = collections.OrderedDict()
+    for infinitive in sorted(verbs):
+        sorted_verbs[infinitive] = verbs[infinitive]
+
     with open('verbs.json', 'w') as f:
-        json.dump(verbs, f, indent=4, ensure_ascii=False)
+        json.dump(sorted_verbs, f, indent=4, ensure_ascii=False)
