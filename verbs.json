@@ -4174,7 +4174,7 @@
     },
     "deshacer": {
         "e_present": "undo",
-        "e_present3p": "undos",
+        "e_present3p": "undoes",
         "e_past": "undid",
         "e_pparticiple": "undone",
         "e_gerund": "undoing",
@@ -6576,7 +6576,7 @@
     },
     "hacer": {
         "e_present": "do",
-        "e_present3p": "dos",
+        "e_present3p": "does",
         "e_past": "did",
         "e_pparticiple": "done",
         "e_gerund": "doing",
