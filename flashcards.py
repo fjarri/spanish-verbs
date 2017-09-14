@@ -175,6 +175,22 @@ def generate_unique_cards(cards):
     return unique_cards
 
 
+def show_english(infinitives):
+    json_data = load_verbs()
+    for infinitive in infinitives:
+        entry = json_data[infinitive]
+        disamb = entry['english_disambiguation']
+        print("{infinitive}: {disamb}{present}, {present3p}, {past}, {pp}, {gerund}".format(
+            infinitive=infinitive,
+            disamb="(" + disamb + ") " if disamb != "" else "",
+            present=entry['e_present'],
+            present3p=entry['e_present3p'],
+            past=entry['e_past'],
+            pp=entry['e_pparticiple'],
+            gerund=entry['e_gerund'],
+            ))
+
+
 def generate_my_cards():
 
     infinitives = TOP200_VERBS[:4]
@@ -182,6 +198,10 @@ def generate_my_cards():
         'Presente Indicativo',
         'Pretérito Indicativo',
         ]
+
+    print("Generating cards for:")
+    show_english(infinitives)
+    input()
 
     cards = generate_cards(infinitives=infinitives, tenses=tenses)
     check_duplicate_cards(cards)
