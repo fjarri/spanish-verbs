@@ -312,7 +312,7 @@
     },
     "acostarse": {
         "e_present": "go to bed",
-        "e_present3p": "gos to bed",
+        "e_present3p": "goes to bed",
         "e_past": "went to bed",
         "e_pparticiple": "gone to bed",
         "e_gerund": "going to bed",
@@ -7268,7 +7268,7 @@
     },
     "ir": {
         "e_present": "go",
-        "e_present3p": "gos",
+        "e_present3p": "goes",
         "e_past": "went",
         "e_pparticiple": "gone",
         "e_gerund": "going",
@@ -7325,7 +7325,7 @@
     },
     "irse": {
         "e_present": "go away",
-        "e_present3p": "gos away",
+        "e_present3p": "goes away",
         "e_past": "went away",
         "e_pparticiple": "gone away",
         "e_gerund": "going away",
@@ -11828,7 +11828,7 @@
     },
     "subir": {
         "e_present": "go up",
-        "e_present3p": "gos up",
+        "e_present3p": "goes up",
         "e_past": "went up",
         "e_pparticiple": "went up",
         "e_gerund": "going up",
