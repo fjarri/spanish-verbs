@@ -12098,7 +12098,7 @@
     },
     "tener": {
         "e_present": "have",
-        "e_present3p": "haves",
+        "e_present3p": "has",
         "e_past": "had",
         "e_pparticiple": "had",
         "e_gerund": "having",
