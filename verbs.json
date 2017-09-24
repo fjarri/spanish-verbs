@@ -950,9 +950,9 @@
         "english_template_type": "regular"
     },
     "apostar": {
-        "e_present": "be bet",
-        "e_present3p": "is bet",
-        "e_past": "was bet",
+        "e_present": "bet",
+        "e_present3p": "bets",
+        "e_past": "bet",
         "e_pparticiple": "bet",
         "e_gerund": "betting",
         "english_disambiguation": "",
