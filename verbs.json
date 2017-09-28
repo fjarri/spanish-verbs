@@ -155,7 +155,7 @@
     },
     "acercarse": {
         "e_present": "approach",
-        "e_present3p": "approachs",
+        "e_present3p": "approaches",
         "e_past": "approached",
         "e_pparticiple": "approached",
         "e_gerund": "approaching",
@@ -630,7 +630,7 @@
     },
     "alcanzar": {
         "e_present": "reach",
-        "e_present3p": "reachs",
+        "e_present3p": "reaches",
         "e_past": "reached",
         "e_pparticiple": "reached",
         "e_gerund": "reaching",
@@ -1622,7 +1622,7 @@
     },
     "buscar": {
         "e_present": "search for",
-        "e_present3p": "searchs for",
+        "e_present3p": "searches for",
         "e_past": "searched for",
         "e_pparticiple": "searched for",
         "e_gerund": "searching for",
@@ -2232,7 +2232,7 @@
     },
     "coger": {
         "e_present": "catch",
-        "e_present3p": "catchs",
+        "e_present3p": "catches",
         "e_past": "caught",
         "e_pparticiple": "caught",
         "e_gerund": "catching",
@@ -5240,7 +5240,7 @@
     },
     "enriquecer": {
         "e_present": "enrich",
-        "e_present3p": "enrichs",
+        "e_present3p": "enriches",
         "e_past": "enriched",
         "e_pparticiple": "enriched",
         "e_gerund": "enriching",
@@ -5292,7 +5292,7 @@
     },
     "enseñar": {
         "e_present": "teach",
-        "e_present3p": "teachs",
+        "e_present3p": "teaches",
         "e_past": "taught",
         "e_pparticiple": "taught",
         "e_gerund": "teaching",
@@ -8071,7 +8071,7 @@
     },
     "mirar": {
         "e_present": "watch",
-        "e_present3p": "watchs",
+        "e_present3p": "watches",
         "e_past": "watched",
         "e_pparticiple": "watched",
         "e_gerund": "watching",
@@ -12223,7 +12223,7 @@
     },
     "tocar": {
         "e_present": "touch",
-        "e_present3p": "touchs",
+        "e_present3p": "touches",
         "e_past": "touched",
         "e_pparticiple": "touched",
         "e_gerund": "touching",
