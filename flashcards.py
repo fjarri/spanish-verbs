@@ -12,7 +12,7 @@ TOP200_VERBS = [
 'poder', 'decir', 'ir', 'ver', 'dar',
 'saber', 'querer', 'llegar', 'pasar', 'deber',
 'poner', 'parecer', 'quedar', 'creer', 'hablar',
-'llevar', 'dejar', 'seguir', 'encontrar', 'llamar,',
+'llevar', 'dejar', 'seguir', 'encontrar', 'llamar',
 'venir', 'pensar', 'salir', 'volver', 'tomar',
 'conocer', 'vivir', 'sentir', 'tratar', 'mirar',
 'contar', 'empezar', 'esperar', 'buscar', 'existir',
