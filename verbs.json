@@ -710,11 +710,11 @@
         "english_template_type": "regular"
     },
     "almorzar": {
-        "e_present": "lunch",
-        "e_present3p": "lunchs",
-        "e_past": "lunched",
-        "e_pparticiple": "lunched",
-        "e_gerund": "lunching",
+        "e_present": "have lunch",
+        "e_present3p": "has lunch",
+        "e_past": "had lunch",
+        "e_pparticiple": "had lunch",
+        "e_gerund": "having lunch",
         "english_disambiguation": "",
         "irregular_forms": {
             "Presente Indicativo; 1a persona; singular": "almuerzo",
