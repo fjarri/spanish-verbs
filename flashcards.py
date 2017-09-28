@@ -15,7 +15,8 @@ TOP200_VERBS = [
 'llevar', 'dejar', 'seguir', 'encontrar', 'llamar',
 'venir', 'pensar', 'salir', 'volver', 'tomar',
 'conocer', 'vivir', 'sentir', 'tratar', 'mirar',
-'contar', 'empezar', 'esperar', 'buscar', 'existir',
+'contar', 'empezar', 'esperar', 'buscar',
+# 'existir', <--- it's regular and isn't present in verbs.json, so ignoring it
 'entrar', 'trabajar', 'escribir', 'perder', 'producir',
 'ocurrir', 'entender', 'pedir', 'recibir', 'recordar',
 'terminar', 'permitir', 'aparecer', 'conseguir', 'comenzar',
