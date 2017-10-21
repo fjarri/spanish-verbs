@@ -1605,7 +1605,7 @@
         {
             "regular": "You all (polite), <e_present>!",
             "to_be_smth": "You all (polite), <e_present>!",
-            "to_be": "You all (poilte), be!"
+            "to_be": "You all (polite), be!"
         },
         {
             "ar": "<s_stem>en",
@@ -1637,8 +1637,8 @@
     ],
     "Presente Imperativo Negativo; 3a persona; singular": [
         {
-            "regular": "You (poilte), don't <e_present>!",
-            "to_be_smth": "You (poilte), don't <e_present>!",
+            "regular": "You (polite), don't <e_present>!",
+            "to_be_smth": "You (polite), don't <e_present>!",
             "to_be": "You (polite), don't be!"
         },
         {
@@ -1682,8 +1682,8 @@
     ],
     "Presente Imperativo Negativo; 3a persona; plural": [
         {
-            "regular": "You all (poilte), don't <e_present>!",
-            "to_be_smth": "You all (poilte), don't <e_present>!",
+            "regular": "You all (polite), don't <e_present>!",
+            "to_be_smth": "You all (polite), don't <e_present>!",
             "to_be": "You all (polite), don't be!"
         },
         {
