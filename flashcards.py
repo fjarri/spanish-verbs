@@ -64,13 +64,16 @@ def generate_cards(infinitives=None, tenses=None):
     if tenses is None:
         form_tags = TEMPLATE
     else:
-        form_tags = [
-            "; ".join([tense, person, plurality])
-            for tense, person, plurality in product(
-                tenses,
-                ["1a persona", "2a persona", "3a persona"],
-                ["singular", "plural"])]
-
+        form_tags = []
+        for tense in tenses:
+            if tense not in ['Participio', 'Gerundio']:
+                for person, plurality in product(
+                        ["1a persona", "2a persona", "3a persona"], ["singular", "plural"]):
+                    if "Imperativo" in tense and person == "1a persona" and plurality == "singular":
+                        continue
+                    form_tags.append("; ".join([tense, person, plurality]))
+            else:
+                form_tags.append(tense)
 
     for infinitive in infinitives:
 
