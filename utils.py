@@ -1,4 +1,5 @@
 import json
+import collections
 
 
 with open('template.json') as f:
@@ -63,6 +64,6 @@ def regular_form(infinitive, form_key, pparticiple=None):
 def load_verbs():
 
     with open('verbs.json') as f:
-        verbs = json.load(f)
+        verbs = json.load(f, object_pairs_hook=collections.OrderedDict)
 
     return verbs
