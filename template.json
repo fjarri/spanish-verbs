@@ -1548,12 +1548,12 @@
             "to_be": "You, be!"
         },
         {
-            "ar": "<s_stem>a",
-            "er": "<s_stem>e",
-            "ir": "<s_stem>e",
-            "arse": "<s_stem_stressed>ate",
-            "erse": "<s_stem_stressed>ete",
-            "irse": "<s_stem_stressed>ete"
+            "ar": "¡<s_stem>a!",
+            "er": "¡<s_stem>e!",
+            "ir": "¡<s_stem>e!",
+            "arse": "¡<s_stem_stressed>ate!",
+            "erse": "¡<s_stem_stressed>ete!",
+            "irse": "¡<s_stem_stressed>ete!"
         }
     ],
     "Presente Imperativo Afirmativo; 3a persona; singular": [
@@ -1563,12 +1563,12 @@
             "to_be": "You (polite), be!"
         },
         {
-            "ar": "<s_stem>e",
-            "er": "<s_stem>a",
-            "ir": "<s_stem>a",
-            "arse": "<s_stem_stressed>ese",
-            "erse": "<s_stem_stressed>ase",
-            "irse": "<s_stem_stressed>ase"
+            "ar": "¡<s_stem>e!",
+            "er": "¡<s_stem>a!",
+            "ir": "¡<s_stem>a!",
+            "arse": "¡<s_stem_stressed>ese!",
+            "erse": "¡<s_stem_stressed>ase!",
+            "irse": "¡<s_stem_stressed>ase!"
         }
     ],
     "Presente Imperativo Afirmativo; 1a persona; plural": [
@@ -1578,12 +1578,12 @@
             "to_be": "Let's be!"
         },
         {
-            "ar": "<s_stem>emos",
-            "er": "<s_stem>amos",
-            "ir": "<s_stem>amos",
-            "arse": "<s_stem>émonos",
-            "erse": "<s_stem>ámonos",
-            "irse": "<s_stem>ámonos"
+            "ar": "¡<s_stem>emos!",
+            "er": "¡<s_stem>amos!",
+            "ir": "¡<s_stem>amos!",
+            "arse": "¡<s_stem>émonos!",
+            "erse": "¡<s_stem>ámonos!",
+            "irse": "¡<s_stem>ámonos!"
         }
     ],
     "Presente Imperativo Afirmativo; 2a persona; plural": [
@@ -1593,12 +1593,12 @@
             "to_be": "You all, be!"
         },
         {
-            "ar": "<s_stem>ad",
-            "er": "<s_stem>ed",
-            "ir": "<s_stem>id",
-            "arse": "<s_stem>aos",
-            "erse": "<s_stem>eos",
-            "irse": "<s_stem>íos"
+            "ar": "¡<s_stem>ad!",
+            "er": "¡<s_stem>ed!",
+            "ir": "¡<s_stem>id!",
+            "arse": "¡<s_stem>aos!",
+            "erse": "¡<s_stem>eos!",
+            "irse": "¡<s_stem>íos!"
         }
     ],
     "Presente Imperativo Afirmativo; 3a persona; plural": [
@@ -1608,12 +1608,12 @@
             "to_be": "You all (polite), be!"
         },
         {
-            "ar": "<s_stem>en",
-            "er": "<s_stem>an",
-            "ir": "<s_stem>an",
-            "arse": "<s_stem_stressed>ense",
-            "erse": "<s_stem_stressed>anse",
-            "irse": "<s_stem_stressed>anse"
+            "ar": "¡<s_stem>en!",
+            "er": "¡<s_stem>an!",
+            "ir": "¡<s_stem>an!",
+            "arse": "¡<s_stem_stressed>ense!",
+            "erse": "¡<s_stem_stressed>anse!",
+            "irse": "¡<s_stem_stressed>anse!"
         }
     ],
 
@@ -1627,12 +1627,12 @@
             "to_be": "You, don't be!"
         },
         {
-            "ar": "no <s_stem>es",
-            "er": "no <s_stem>as",
-            "ir": "no <s_stem>as",
-            "arse": "no te <s_stem>es",
-            "erse": "no te <s_stem>as",
-            "irse": "no te <s_stem>as"
+            "ar": "¡no <s_stem>es!",
+            "er": "¡no <s_stem>as!",
+            "ir": "¡no <s_stem>as!",
+            "arse": "¡no te <s_stem>es!",
+            "erse": "¡no te <s_stem>as!",
+            "irse": "¡no te <s_stem>as!"
         }
     ],
     "Presente Imperativo Negativo; 3a persona; singular": [
@@ -1642,12 +1642,12 @@
             "to_be": "You (polite), don't be!"
         },
         {
-            "ar": "no <s_stem>e",
-            "er": "no <s_stem>a",
-            "ir": "no <s_stem>a",
-            "arse": "no se <s_stem>e",
-            "erse": "no se <s_stem>a",
-            "irse": "no se <s_stem>a"
+            "ar": "¡no <s_stem>e!",
+            "er": "¡no <s_stem>a!",
+            "ir": "¡no <s_stem>a!",
+            "arse": "¡no se <s_stem>e!",
+            "erse": "¡no se <s_stem>a!",
+            "irse": "¡no se <s_stem>a!"
         }
     ],
     "Presente Imperativo Negativo; 1a persona; plural": [
@@ -1657,12 +1657,12 @@
             "to_be": "Let's not be!"
         },
         {
-            "ar": "no <s_stem>emos",
-            "er": "no <s_stem>amos",
-            "ir": "no <s_stem>amos",
-            "arse": "no nos <s_stem>emos",
-            "erse": "no nos <s_stem>amos",
-            "irse": "no nos <s_stem>amos"
+            "ar": "¡no <s_stem>emos!",
+            "er": "¡no <s_stem>amos!",
+            "ir": "¡no <s_stem>amos!",
+            "arse": "¡no nos <s_stem>emos!",
+            "erse": "¡no nos <s_stem>amos!",
+            "irse": "¡no nos <s_stem>amos!"
         }
     ],
     "Presente Imperativo Negativo; 2a persona; plural": [
@@ -1672,12 +1672,12 @@
             "to_be": "You all, don't be!"
         },
         {
-            "ar": "no <s_stem>éis",
-            "er": "no <s_stem>áis",
-            "ir": "no <s_stem>áis",
-            "arse": "no os <s_stem>éis",
-            "erse": "no os <s_stem>áis",
-            "irse": "no os <s_stem>áis"
+            "ar": "¡no <s_stem>éis!",
+            "er": "¡no <s_stem>áis!",
+            "ir": "¡no <s_stem>áis!",
+            "arse": "¡no os <s_stem>éis!",
+            "erse": "¡no os <s_stem>áis!",
+            "irse": "¡no os <s_stem>áis!"
         }
     ],
     "Presente Imperativo Negativo; 3a persona; plural": [
@@ -1687,12 +1687,12 @@
             "to_be": "You all (polite), don't be!"
         },
         {
-            "ar": "no <s_stem>en",
-            "er": "no <s_stem>an",
-            "ir": "no <s_stem>an",
-            "arse": "no se <s_stem>en",
-            "erse": "no se <s_stem>an",
-            "irse": "no se <s_stem>an"
+            "ar": "¡no <s_stem>en!",
+            "er": "¡no <s_stem>an!",
+            "ir": "¡no <s_stem>an!",
+            "arse": "¡no se <s_stem>en!",
+            "erse": "¡no se <s_stem>an!",
+            "irse": "¡no se <s_stem>an!"
         }
     ]
 }
