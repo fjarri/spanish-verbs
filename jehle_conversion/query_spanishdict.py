@@ -7,6 +7,8 @@ from utils import *
 
 
 def get_spanishdict_all(infinitive):
+    #Look into using the api .. http://translate1.spanishdict.com/api/v1/verb?q=ir&source=es 
+    #I dont know if its legal thought .. check thier terms .. i think its not even your way.. but i dont think they care
     page = requests.get('http://www.spanishdict.com/conjugate/' + infinitive)
     return page.content
 
