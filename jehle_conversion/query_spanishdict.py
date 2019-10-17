@@ -12,6 +12,8 @@ def get_spanishdict_all(infinitive):
 
 
 def get_spanishdict():
+    # TODO: a faster way would be to use the REST API:
+    # http://translate1.spanishdict.com/api/v1/verb?q=ir&source=es
     with open('verbs.json') as f:
         verbs = json.load(f)
 
