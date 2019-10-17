@@ -39,7 +39,7 @@ def update_anki_deck(deck_name, new_cards):
             existing_card = existing_cards[card['Front']]
             if existing_card['Back'] != card['Back'] or existing_card['Tags'] != card['Tags']:
                 print("Replacing the card", card['Front'])
-                col.remCards([])
+                col.remCards([existing_card['Id']])
             else:
                 continue
 
